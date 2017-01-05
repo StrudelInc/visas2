@@ -1,0 +1,1264 @@
+{
+    "cca2": "YE",
+    "cca3": "YEM",
+    "ccn3": "887",
+    "csvc": "YEMN",
+    "name": "Yemen",
+    "requirements": {
+        "ABKH": {
+            "note": "",
+            "time": "",
+            "type": "f"
+        },
+        "AFGH": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "AHVE": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "ALBA": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "ALGE": {
+            "note": "",
+            "time": "3 Month(s)",
+            "type": "f"
+        },
+        "AMSA": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "ANBA": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "ANDO": {
+            "note": "Apply regulation of France or Spain.",
+            "time": "",
+            "type": "r"
+        },
+        "ANGO": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "ANGU": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "ANTA": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "ARGE": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "ARME": {
+            "note": "",
+            "time": "120 Day(s)",
+            "type": "a"
+        },
+        "ARUB": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "AUST": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "AZER": {
+            "note": "",
+            "time": "30 Day(s)",
+            "type": "a"
+        },
+        "BAHA": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "BAHR": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "BANG": {
+            "note": "",
+            "time": "30 Day(s)",
+            "type": "a"
+        },
+        "BARB": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "BART": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "BELA": {
+            "note": "",
+            "time": "",
+            "type": "a"
+        },
+        "BELG": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "BELI": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "BENI": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "BERM": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "BHUT": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "BIOT": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "BOLI": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "BOSN": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "BOTS": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "BOUV": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "BRAZ": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "BRIV": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "BRUN": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "BULG": {
+            "note": "Except for transit.",
+            "time": "",
+            "type": "r"
+        },
+        "BURK": {
+            "note": "Not required in extreme cases.",
+            "time": "",
+            "type": "r"
+        },
+        "BURU": {
+            "note": "Visa on arrival possible if there is no diplomatic representative of burundi located in country of origin.",
+            "time": "",
+            "type": "r"
+        },
+        "CAMB": {
+            "note": "",
+            "time": "30 Day(s)",
+            "type": "a"
+        },
+        "CAME": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "CANA": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "CAPE": {
+            "note": "Not required for former nationals of cape verde islands. Visa on arrival for those coming from countries where no diplomatic re",
+            "time": "",
+            "type": "r"
+        },
+        "CARI": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "CAYM": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "CENT": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "CHAD": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "CHIL": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "CHIN": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "CHRI": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "CLMB": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "COCO": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "COMO": {
+            "note": "",
+            "time": "",
+            "type": "a"
+        },
+        "CONG": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "COOK": {
+            "note": "",
+            "time": "31 Day(s)",
+            "type": "f"
+        },
+        "COST": {
+            "note": "US, Canada or EU visa accpeted.",
+            "time": "",
+            "type": "r"
+        },
+        "CROA": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "CUBA": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "CURA": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "CYPR": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "CZEC": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "DEMO": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "DENM": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "DEUT": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "DJIB": {
+            "note": "",
+            "time": "1 Month(s)",
+            "type": "a"
+        },
+        "DOMI": {
+            "note": "",
+            "time": "21 Day(s)",
+            "type": "f"
+        },
+        "DOMR": {
+            "note": "US, Canada or EU visa accpeted.",
+            "time": "",
+            "type": "r"
+        },
+        "ECUA": {
+            "note": "",
+            "time": "90 Day(s)",
+            "type": "f"
+        },
+        "EGUI": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "EGYP": {
+            "note": "",
+            "time": "15 Day(s)",
+            "type": "a"
+        },
+        "ERIT": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "ESPA": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "ESTO": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "ETHI": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "FALK": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "FARO": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "FGUI": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "FIJI": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "FINL": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "FRAN": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "FSAL": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "GABO": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "GAMB": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "GEOR": {
+            "note": "",
+            "time": "",
+            "type": "a"
+        },
+        "GHAN": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "GIBR": {
+            "note": "UK visa accepted (must be valid for one year).",
+            "time": "",
+            "type": "r"
+        },
+        "GRCE": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "GREE": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "GREN": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "GRGS": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "GUAD": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "GUAM": {
+            "note": "Same conditions as for mainland US.",
+            "time": "",
+            "type": "r"
+        },
+        "GUAT": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "GUER": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "GUIB": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "GUIN": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "GUYA": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "HAIT": {
+            "note": "",
+            "time": "3 Month(s)",
+            "type": "f"
+        },
+        "HATC": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "HIMI": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "HKGK": {
+            "note": "",
+            "time": "1 Month(s)",
+            "type": "f"
+        },
+        "HOND": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "HUNG": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "ICEL": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "INDI": {
+            "note": "Except for those holding a PIO card (Person of Indian Origin).",
+            "time": "",
+            "type": "r"
+        },
+        "INDO": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "IRAN": {
+            "note": "Need a pre-approval code obtained at www. mfa. gov. ir.",
+            "time": "15 Day(s)",
+            "type": "r"
+        },
+        "IRAQ": {
+            "note": "Only available at Erbil international airport.",
+            "time": "",
+            "type": "a"
+        },
+        "IRLE": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "ISLE": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "ISRA": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "ITAL": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "IVOR": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "JAMC": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "JAPA": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "JERS": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "JORD": {
+            "note": "",
+            "time": "1 Month(s)",
+            "type": "f"
+        },
+        "KAZA": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "KENY": {
+            "note": "",
+            "time": "3 Month(s)",
+            "type": "a"
+        },
+        "KIRI": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "KORN": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "KORR": {
+            "note": "",
+            "time": "30 Day(s)",
+            "type": "f"
+        },
+        "KSVO": {
+            "note": "",
+            "time": "90 Day(s)",
+            "type": "f"
+        },
+        "KUWA": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "KYRG": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "LAOS": {
+            "note": "",
+            "time": "30 Day(s)",
+            "type": "a"
+        },
+        "LATV": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "LCAS": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "LEBA": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "LESO": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "LIBE": {
+            "note": "Visa exemption if coming from country without diplomatic representation of Liberia.",
+            "time": "",
+            "type": "r"
+        },
+        "LIBY": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "LIEC": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "LITH": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "LUXE": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "MAAS": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "MACA": {
+            "note": "",
+            "time": "",
+            "type": "a"
+        },
+        "MACE": {
+            "note": "Schengen visa accepted.",
+            "time": "",
+            "type": "r"
+        },
+        "MALA": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "MALD": {
+            "note": "",
+            "time": "30 Day(s)",
+            "type": "a"
+        },
+        "MALI": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "MALT": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "MART": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "MAUR": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "MAYO": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "MDGS": {
+            "note": "",
+            "time": "90 Day(s)",
+            "type": "a"
+        },
+        "MEXI": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "MICR": {
+            "note": "",
+            "time": "30 Day(s)",
+            "type": "f"
+        },
+        "MOLD": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "MONA": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "MONG": {
+            "note": "Visa on arrival if arriving from countries where there is no diplomatic representation of Mongolia.",
+            "time": "",
+            "type": "r"
+        },
+        "MONT": {
+            "note": "Visa exemption of 7 days if holding US or Schengen visa.",
+            "time": "",
+            "type": "r"
+        },
+        "MORO": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "MOZA": {
+            "note": "",
+            "time": "30 Day(s)",
+            "type": "a"
+        },
+        "MRSI": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "MRTS": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "MSRT": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "MYAN": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "MYSA": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "NAMI": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "NAUR": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "NCLD": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "NEPL": {
+            "note": "",
+            "time": "",
+            "type": "a"
+        },
+        "NERI": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "NETH": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "NFKI": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "NICA": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "NIGE": {
+            "note": "Except for former Nigeria Nationals.",
+            "time": "",
+            "type": "r"
+        },
+        "NIUE": {
+            "note": "",
+            "time": "30 Day(s)",
+            "type": "f"
+        },
+        "NOMI": {
+            "note": "US visa accepted.",
+            "time": "",
+            "type": "r"
+        },
+        "NORW": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "NZLD": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "OMAN": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "OSSS": {
+            "note": "",
+            "time": "",
+            "type": "f"
+        },
+        "OSTE": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "PAKI": {
+            "note": "Visa not needed if holding a Pakistan Origin Card (POC).",
+            "time": "",
+            "type": "r"
+        },
+        "PALA": {
+            "note": "",
+            "time": "30 Day(s)",
+            "type": "a"
+        },
+        "PALE": {
+            "note": "Borders not controlled.",
+            "time": "",
+            "type": "d"
+        },
+        "PANA": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "PERU": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "PHLP": {
+            "note": "Except for former nationals of Philippines.",
+            "time": "",
+            "type": "r"
+        },
+        "PIIS": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "PNGU": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "POLA": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "PRIC": {
+            "note": "Except if arriving directly from US.",
+            "time": "",
+            "type": "r"
+        },
+        "PRTG": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "PRYG": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "PYFR": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "QATA": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "REUN": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "ROMA": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "RUSS": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "RWAN": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "SAMO": {
+            "note": "",
+            "time": "60 Day(s)",
+            "type": "a"
+        },
+        "SAN ": {
+            "note": "Same rules as for italy.",
+            "time": "",
+            "type": "r"
+        },
+        "SAUD": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "SENE": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "SERB": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "SEYC": {
+            "note": "",
+            "time": "1 Month(s)",
+            "type": "a"
+        },
+        "SIER": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "SING": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "SKAN": {
+            "note": "",
+            "time": "14 Day(s)",
+            "type": "f"
+        },
+        "SLOV": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "SLVE": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "SMRT": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "SOLO": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "SOMA": {
+            "note": "Except if of Somali origin.",
+            "time": "",
+            "type": "r"
+        },
+        "SPNM": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "SRIL": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "STNP": {
+            "note": "Registration made by airline.",
+            "time": "1 Month(s)",
+            "type": "a"
+        },
+        "SUDA": {
+            "note": "Except if of Sudanese origin.",
+            "time": "",
+            "type": "r"
+        },
+        "SUDS": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "SURI": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "SVJM": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "SVKI": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "SVNG": {
+            "note": "",
+            "time": "1 Month(s)",
+            "type": "f"
+        },
+        "SWAZ": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "SWED": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "SWTZ": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "SYRI": {
+            "note": "",
+            "time": "",
+            "type": "f"
+        },
+        "TAIW": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "TAJI": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "TANZ": {
+            "note": "",
+            "time": "",
+            "type": "a"
+        },
+        "TCAI": {
+            "note": "",
+            "time": "30 Day(s)",
+            "type": "f"
+        },
+        "THAI": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "TLSE": {
+            "note": "",
+            "time": "30 Day(s)",
+            "type": "a"
+        },
+        "TOGO": {
+            "note": "",
+            "time": "7 Day(s)",
+            "type": "a"
+        },
+        "TOKE": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "TONG": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "TRKM": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "TTOG": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "TUNI": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "TURK": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "TUVA": {
+            "note": "",
+            "time": "1 Month(s)",
+            "type": "a"
+        },
+        "UAEM": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "UGAN": {
+            "note": "",
+            "time": "",
+            "type": "a"
+        },
+        "UKBI": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "UKRA": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "URUG": {
+            "note": "Except if born in Uruguay.",
+            "time": "",
+            "type": "r"
+        },
+        "USMO": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "USOA": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "USVI": {
+            "note": "Except if arriving directly from US.",
+            "time": "",
+            "type": "r"
+        },
+        "UZBE": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "VANU": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "VATI": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "VENE": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "VIET": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "WLSF": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "WSAH": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "ZAFR": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "ZIMB": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "ZMBI": {
+            "note": "",
+            "time": "90 Day(s)",
+            "type": "a"
+        }
+    }
+}
