@@ -1,0 +1,1264 @@
+{
+    "cca2": "CC",
+    "cca3": "",
+    "ccn3": "",
+    "name": "Cocos (Keeling) Islands",
+    "rank": 0,
+    "requirements": {
+        "AB": {
+            "note": "",
+            "time": "",
+            "type": "f"
+        },
+        "AD": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "AE": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "AF": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "AG": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "AI": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "AL": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "AM": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "AO": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "AQ": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "AR": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "AS": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "AT": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "AU": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "AW": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "AX": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "AZ": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "BA": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "BB": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "BD": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "BE": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "BF": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "BG": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "BH": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "BI": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "BJ": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "BL": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "BM": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "BN": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "BO": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "BQ": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "BR": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "BS": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "BT": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "BV": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "BW": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "BY": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "BZ": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "CA": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "CD": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "CF": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "CG": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "CH": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "CI": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "CK": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "CL": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "CM": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "CN": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "CO": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "CR": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "CU": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "CV": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "CW": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "CX": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "CY": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "CZ": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "DE": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "DJ": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "DK": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "DM": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "DO": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "DZ": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "EC": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "EE": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "EG": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "EH": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "ER": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "ES": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "ET": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "FI": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "FJ": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "FK": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "FM": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "FO": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "FR": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "GA": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "GB": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "GD": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "GE": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "GF": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "GG": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "GH": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "GI": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "GL": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "GM": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "GN": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "GP": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "GQ": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "GR": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "GS": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "GT": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "GU": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "GW": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "GY": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "HI": {
+            "note": "",
+            "time": "",
+            "type": "f"
+        },
+        "HK": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "HM": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "HN": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "HR": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "HT": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "HU": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "ID": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "IE": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "IL": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "IM": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "IN": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "IO": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "IQ": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "IR": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "IS": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "IT": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "JE": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "JM": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "JO": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "JP": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "KE": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "KG": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "KH": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "KI": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "KM": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "KN": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "KP": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "KR": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "KW": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "KY": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "KZ": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "LA": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "LB": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "LC": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "LI": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "LK": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "LR": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "LS": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "LT": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "LU": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "LV": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "LY": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "MA": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "MC": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "MD": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "ME": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "MF": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "MG": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "MH": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "MK": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "ML": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "MM": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "MN": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "MO": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "MP": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "MQ": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "MR": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "MS": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "MT": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "MU": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "MV": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "MW": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "MX": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "MY": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "MZ": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "NA": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "NC": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "NE": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "NF": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "NG": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "NI": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "NL": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "NO": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "NP": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "NR": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "NU": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "NZ": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "OM": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "PA": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "PE": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "PF": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "PG": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "PH": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "PK": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "PL": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "PM": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "PN": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "PR": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "PS": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "PT": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "PW": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "PY": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "QA": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "RE": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "RO": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "RS": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "RU": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "RW": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "SA": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "SB": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "SC": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "SD": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "SE": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "SG": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "SH": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "SI": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "SJ": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "SK": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "SL": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "SM": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "SN": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "SO": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "SR": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "SS": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "ST": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "SV": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "SX": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "SY": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "SZ": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "TC": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "TD": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "TF": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "TG": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "TH": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "TJ": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "TK": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "TL": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "TM": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "TN": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "TO": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "TR": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "TT": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "TV": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "TW": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "TZ": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "UA": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "UG": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "UM": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "US": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "UY": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "UZ": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "VA": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "VC": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "VE": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "VG": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "VI": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "VN": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "VU": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "WF": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "WS": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "XK": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "YE": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "YT": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "ZA": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "ZM": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "ZW": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        }
+    }
+}

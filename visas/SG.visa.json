@@ -1,0 +1,1264 @@
+{
+    "cca2": "SG",
+    "cca3": "SGP",
+    "ccn3": "702",
+    "name": "Singapore",
+    "rank": 32,
+    "requirements": {
+        "AB": {
+            "note": "",
+            "time": "",
+            "type": "f"
+        },
+        "AD": {
+            "note": "Apply regulation of France or Spain.",
+            "time": "",
+            "type": "r"
+        },
+        "AE": {
+            "note": "",
+            "time": "30 Day(s)",
+            "type": "a"
+        },
+        "AF": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "AG": {
+            "note": "",
+            "time": "1 Month(s)",
+            "type": "f"
+        },
+        "AI": {
+            "note": "",
+            "time": "3 Month(s)",
+            "type": "f"
+        },
+        "AL": {
+            "note": "",
+            "time": "1 Month(s)",
+            "type": "f"
+        },
+        "AM": {
+            "note": "",
+            "time": "120 Day(s)",
+            "type": "a"
+        },
+        "AO": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "AQ": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "AR": {
+            "note": "",
+            "time": "3 Month(s)",
+            "type": "f"
+        },
+        "AS": {
+            "note": "",
+            "time": "30 Day(s)",
+            "type": "f"
+        },
+        "AT": {
+            "note": "",
+            "time": "3 Month(s)",
+            "type": "f"
+        },
+        "AU": {
+            "note": "Electronic Travel Authority",
+            "time": "",
+            "type": "e"
+        },
+        "AW": {
+            "note": "",
+            "time": "30 Day(s)",
+            "type": "f"
+        },
+        "AX": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "AZ": {
+            "note": "",
+            "time": "30 Day(s)",
+            "type": "a"
+        },
+        "BA": {
+            "note": "",
+            "time": "90 Day(s)",
+            "type": "f"
+        },
+        "BB": {
+            "note": "",
+            "time": "6 Month(s)",
+            "type": "f"
+        },
+        "BD": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "BE": {
+            "note": "",
+            "time": "90 Day(s)",
+            "type": "f"
+        },
+        "BF": {
+            "note": "Not required in extreme cases.",
+            "time": "",
+            "type": "r"
+        },
+        "BG": {
+            "note": "",
+            "time": "90 Day(s)",
+            "type": "f"
+        },
+        "BH": {
+            "note": "",
+            "time": "14 Day(s)",
+            "type": "a"
+        },
+        "BI": {
+            "note": "Visa on arrival possible if there is no diplomatic representative of burundi located in country of origin.",
+            "time": "",
+            "type": "r"
+        },
+        "BJ": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "BL": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "BM": {
+            "note": "",
+            "time": "6 Month(s)",
+            "type": "f"
+        },
+        "BN": {
+            "note": "",
+            "time": "30 Day(s)",
+            "type": "f"
+        },
+        "BO": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "BQ": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "BR": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "BS": {
+            "note": "",
+            "time": "3 Month(s)",
+            "type": "f"
+        },
+        "BT": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "BV": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "BW": {
+            "note": "",
+            "time": "90 Day(s)",
+            "type": "f"
+        },
+        "BY": {
+            "note": "",
+            "time": "",
+            "type": "a"
+        },
+        "BZ": {
+            "note": "",
+            "time": "1 Month(s)",
+            "type": "f"
+        },
+        "CA": {
+            "note": "",
+            "time": "6 Month(s)",
+            "type": "f"
+        },
+        "CC": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "CD": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "CF": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "CG": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "CH": {
+            "note": "",
+            "time": "3 Month(s)",
+            "type": "f"
+        },
+        "CI": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "CK": {
+            "note": "",
+            "time": "31 Day(s)",
+            "type": "f"
+        },
+        "CL": {
+            "note": "",
+            "time": "90 Day(s)",
+            "type": "f"
+        },
+        "CM": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "CN": {
+            "note": "",
+            "time": "15 Day(s)",
+            "type": "f"
+        },
+        "CO": {
+            "note": "",
+            "time": "90 Day(s)",
+            "type": "f"
+        },
+        "CR": {
+            "note": "",
+            "time": "90 Day(s)",
+            "type": "f"
+        },
+        "CU": {
+            "note": "",
+            "time": "30 Day(s)",
+            "type": "f"
+        },
+        "CV": {
+            "note": "Not required for former nationals of cape verde islands. Visa on arrival for those coming from countries where no diplomatic re",
+            "time": "",
+            "type": "r"
+        },
+        "CW": {
+            "note": "",
+            "time": "3 Month(s)",
+            "type": "f"
+        },
+        "CX": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "CY": {
+            "note": "",
+            "time": "90 Day(s)",
+            "type": "f"
+        },
+        "CZ": {
+            "note": "",
+            "time": "30 Day(s)",
+            "type": "f"
+        },
+        "DE": {
+            "note": "",
+            "time": "90 Day(s)",
+            "type": "f"
+        },
+        "DJ": {
+            "note": "",
+            "time": "1 Month(s)",
+            "type": "a"
+        },
+        "DK": {
+            "note": "",
+            "time": "6 Month(s)",
+            "type": "f"
+        },
+        "DM": {
+            "note": "",
+            "time": "21 Day(s)",
+            "type": "f"
+        },
+        "DO": {
+            "note": "",
+            "time": "30 Day(s)",
+            "type": "a"
+        },
+        "DZ": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "EC": {
+            "note": "",
+            "time": "90 Day(s)",
+            "type": "f"
+        },
+        "EE": {
+            "note": "",
+            "time": "90 Day(s)",
+            "type": "f"
+        },
+        "EG": {
+            "note": "",
+            "time": "15 Day(s)",
+            "type": "a"
+        },
+        "EH": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "ER": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "ES": {
+            "note": "",
+            "time": "3 Month(s)",
+            "type": "f"
+        },
+        "ET": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "FI": {
+            "note": "",
+            "time": "90 Day(s)",
+            "type": "f"
+        },
+        "FJ": {
+            "note": "",
+            "time": "4 Month(s)",
+            "type": "f"
+        },
+        "FK": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "FM": {
+            "note": "",
+            "time": "30 Day(s)",
+            "type": "f"
+        },
+        "FO": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "FR": {
+            "note": "",
+            "time": "3 Month(s)",
+            "type": "f"
+        },
+        "GA": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "GB": {
+            "note": "",
+            "time": "6 Month(s)",
+            "type": "f"
+        },
+        "GD": {
+            "note": "",
+            "time": "3 Month(s)",
+            "type": "f"
+        },
+        "GE": {
+            "note": "",
+            "time": "",
+            "type": "a"
+        },
+        "GF": {
+            "note": "",
+            "time": "3 Month(s)",
+            "type": "f"
+        },
+        "GG": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "GH": {
+            "note": "",
+            "time": "90 Day(s)",
+            "type": "f"
+        },
+        "GI": {
+            "note": "",
+            "time": "",
+            "type": "f"
+        },
+        "GL": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "GM": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "GN": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "GP": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "GQ": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "GR": {
+            "note": "",
+            "time": "3 Month(s)",
+            "type": "f"
+        },
+        "GS": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "GT": {
+            "note": "",
+            "time": "90 Day(s)",
+            "type": "f"
+        },
+        "GU": {
+            "note": "",
+            "time": "15 Day(s)",
+            "type": "f"
+        },
+        "GW": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "GY": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "HI": {
+            "note": "",
+            "time": "",
+            "type": "f"
+        },
+        "HK": {
+            "note": "",
+            "time": "3 Month(s)",
+            "type": "f"
+        },
+        "HM": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "HN": {
+            "note": "",
+            "time": "3 Month(s)",
+            "type": "f"
+        },
+        "HR": {
+            "note": "",
+            "time": "90 Day(s)",
+            "type": "f"
+        },
+        "HT": {
+            "note": "",
+            "time": "3 Month(s)",
+            "type": "f"
+        },
+        "HU": {
+            "note": "",
+            "time": "90 Day(s)",
+            "type": "f"
+        },
+        "ID": {
+            "note": "",
+            "time": "30 Day(s)",
+            "type": "f"
+        },
+        "IE": {
+            "note": "",
+            "time": "",
+            "type": "f"
+        },
+        "IL": {
+            "note": "",
+            "time": "3 Month(s)",
+            "type": "f"
+        },
+        "IM": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "IN": {
+            "note": "Except for those holding a PIO card (Person of Indian Origin).",
+            "time": "",
+            "type": "r"
+        },
+        "IO": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "IQ": {
+            "note": "Only available at Erbil international airport.",
+            "time": "",
+            "type": "a"
+        },
+        "IR": {
+            "note": "",
+            "time": "2 Week(s)",
+            "type": "f"
+        },
+        "IS": {
+            "note": "",
+            "time": "",
+            "type": "f"
+        },
+        "IT": {
+            "note": "",
+            "time": "90 Day(s)",
+            "type": "f"
+        },
+        "JE": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "JM": {
+            "note": "",
+            "time": "",
+            "type": "f"
+        },
+        "JO": {
+            "note": "",
+            "time": "",
+            "type": "a"
+        },
+        "JP": {
+            "note": "",
+            "time": "90 Day(s)",
+            "type": "f"
+        },
+        "KE": {
+            "note": "",
+            "time": "3 Month(s)",
+            "type": "f"
+        },
+        "KG": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "KH": {
+            "note": "",
+            "time": "30 Day(s)",
+            "type": "f"
+        },
+        "KI": {
+            "note": "",
+            "time": "",
+            "type": "f"
+        },
+        "KM": {
+            "note": "",
+            "time": "",
+            "type": "a"
+        },
+        "KN": {
+            "note": "",
+            "time": "3 Month(s)",
+            "type": "f"
+        },
+        "KP": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "KR": {
+            "note": "",
+            "time": "3 Month(s)",
+            "type": "f"
+        },
+        "KW": {
+            "note": "",
+            "time": "3 Month(s)",
+            "type": "a"
+        },
+        "KY": {
+            "note": "",
+            "time": "30 Day(s)",
+            "type": "f"
+        },
+        "KZ": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "LA": {
+            "note": "",
+            "time": "30 Day(s)",
+            "type": "f"
+        },
+        "LB": {
+            "note": "",
+            "time": "3 Month(s)",
+            "type": "a"
+        },
+        "LC": {
+            "note": "",
+            "time": "6 Week(s)",
+            "type": "f"
+        },
+        "LI": {
+            "note": "",
+            "time": "3 Month(s)",
+            "type": "f"
+        },
+        "LK": {
+            "note": "",
+            "time": "30 Day(s)",
+            "type": "a"
+        },
+        "LR": {
+            "note": "Visa exemption if coming from country without diplomatic representation of Liberia.",
+            "time": "",
+            "type": "r"
+        },
+        "LS": {
+            "note": "",
+            "time": "14 Day(s)",
+            "type": "f"
+        },
+        "LT": {
+            "note": "",
+            "time": "90 Day(s)",
+            "type": "f"
+        },
+        "LU": {
+            "note": "",
+            "time": "3 Month(s)",
+            "type": "f"
+        },
+        "LV": {
+            "note": "",
+            "time": "90 Day(s)",
+            "type": "f"
+        },
+        "LY": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "MA": {
+            "note": "",
+            "time": "3 Month(s)",
+            "type": "f"
+        },
+        "MC": {
+            "note": "",
+            "time": "3 Month(s)",
+            "type": "f"
+        },
+        "MD": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "ME": {
+            "note": "",
+            "time": "90 Day(s)",
+            "type": "f"
+        },
+        "MF": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "MG": {
+            "note": "",
+            "time": "90 Day(s)",
+            "type": "a"
+        },
+        "MH": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "MK": {
+            "note": "",
+            "time": "90 Day(s)",
+            "type": "f"
+        },
+        "ML": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "MM": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "MN": {
+            "note": "",
+            "time": "14 Day(s)",
+            "type": "f"
+        },
+        "MO": {
+            "note": "",
+            "time": "30 Day(s)",
+            "type": "f"
+        },
+        "MP": {
+            "note": "",
+            "time": "30 Day(s)",
+            "type": "f"
+        },
+        "MQ": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "MR": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "MS": {
+            "note": "",
+            "time": "3 Month(s)",
+            "type": "f"
+        },
+        "MT": {
+            "note": "",
+            "time": "90 Day(s)",
+            "type": "f"
+        },
+        "MU": {
+            "note": "",
+            "time": "60 Day(s)",
+            "type": "f"
+        },
+        "MV": {
+            "note": "",
+            "time": "30 Day(s)",
+            "type": "a"
+        },
+        "MW": {
+            "note": "",
+            "time": "90 Day(s)",
+            "type": "f"
+        },
+        "MX": {
+            "note": "",
+            "time": "180 Day(s)",
+            "type": "f"
+        },
+        "MY": {
+            "note": "",
+            "time": "1 Month(s)",
+            "type": "f"
+        },
+        "MZ": {
+            "note": "",
+            "time": "30 Day(s)",
+            "type": "a"
+        },
+        "NA": {
+            "note": "",
+            "time": "3 Month(s)",
+            "type": "f"
+        },
+        "NC": {
+            "note": "",
+            "time": "1 Month(s)",
+            "type": "f"
+        },
+        "NE": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "NF": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "NG": {
+            "note": "Except for former Nigeria Nationals.",
+            "time": "",
+            "type": "r"
+        },
+        "NI": {
+            "note": "",
+            "time": "90 Day(s)",
+            "type": "f"
+        },
+        "NL": {
+            "note": "",
+            "time": "90 Day(s)",
+            "type": "f"
+        },
+        "NO": {
+            "note": "",
+            "time": "3 Month(s)",
+            "type": "f"
+        },
+        "NP": {
+            "note": "",
+            "time": "",
+            "type": "a"
+        },
+        "NR": {
+            "note": "",
+            "time": "",
+            "type": "a"
+        },
+        "NU": {
+            "note": "",
+            "time": "30 Day(s)",
+            "type": "f"
+        },
+        "NZ": {
+            "note": "",
+            "time": "3 Month(s)",
+            "type": "f"
+        },
+        "OM": {
+            "note": "",
+            "time": "1 Month(s)",
+            "type": "a"
+        },
+        "PA": {
+            "note": "",
+            "time": "30 Day(s)",
+            "type": "f"
+        },
+        "PE": {
+            "note": "",
+            "time": "90 Day(s)",
+            "type": "f"
+        },
+        "PF": {
+            "note": "",
+            "time": "1 Month(s)",
+            "type": "f"
+        },
+        "PG": {
+            "note": "",
+            "time": "60 Day(s)",
+            "type": "a"
+        },
+        "PH": {
+            "note": "For more than 21 days up to 59 days, visa issued upon arrival.",
+            "time": "21 Day(s)",
+            "type": "f"
+        },
+        "PK": {
+            "note": "For business purposes only.",
+            "time": "30 Day(s)",
+            "type": "a"
+        },
+        "PL": {
+            "note": "",
+            "time": "90 Day(s)",
+            "type": "f"
+        },
+        "PM": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "PN": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "PR": {
+            "note": "Except if arriving directly from US.",
+            "time": "",
+            "type": "r"
+        },
+        "PS": {
+            "note": "Borders not controlled.",
+            "time": "",
+            "type": "d"
+        },
+        "PT": {
+            "note": "",
+            "time": "90 Day(s)",
+            "type": "f"
+        },
+        "PW": {
+            "note": "",
+            "time": "30 Day(s)",
+            "type": "a"
+        },
+        "PY": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "QA": {
+            "note": "",
+            "time": "1 Month(s)",
+            "type": "a"
+        },
+        "RE": {
+            "note": "",
+            "time": "3 Month(s)",
+            "type": "f"
+        },
+        "RO": {
+            "note": "",
+            "time": "90 Day(s)",
+            "type": "f"
+        },
+        "RS": {
+            "note": "",
+            "time": "90 Day(s)",
+            "type": "f"
+        },
+        "RU": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "RW": {
+            "note": "",
+            "time": "90 Day(s)",
+            "type": "f"
+        },
+        "SA": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "SB": {
+            "note": "",
+            "time": "3 Month(s)",
+            "type": "a"
+        },
+        "SC": {
+            "note": "",
+            "time": "1 Month(s)",
+            "type": "a"
+        },
+        "SD": {
+            "note": "Except if of Sudanese origin.",
+            "time": "",
+            "type": "r"
+        },
+        "SE": {
+            "note": "",
+            "time": "3 Month(s)",
+            "type": "f"
+        },
+        "SH": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "SI": {
+            "note": "",
+            "time": "90 Day(s)",
+            "type": "f"
+        },
+        "SJ": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "SK": {
+            "note": "",
+            "time": "90 Day(s)",
+            "type": "f"
+        },
+        "SL": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "SM": {
+            "note": "Same rules as for italy.",
+            "time": "",
+            "type": "r"
+        },
+        "SN": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "SO": {
+            "note": "Except if of Somali origin.",
+            "time": "",
+            "type": "r"
+        },
+        "SR": {
+            "note": "",
+            "time": "120 Day(s)",
+            "type": "f"
+        },
+        "SS": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "ST": {
+            "note": "Registration made by airline.",
+            "time": "1 Month(s)",
+            "type": "a"
+        },
+        "SV": {
+            "note": "",
+            "time": "3 Month(s)",
+            "type": "f"
+        },
+        "SX": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "SY": {
+            "note": "Except if born in an arabic country.",
+            "time": "",
+            "type": "r"
+        },
+        "SZ": {
+            "note": "",
+            "time": "30 Day(s)",
+            "type": "f"
+        },
+        "TC": {
+            "note": "",
+            "time": "30 Day(s)",
+            "type": "f"
+        },
+        "TD": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "TF": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "TG": {
+            "note": "",
+            "time": "7 Day(s)",
+            "type": "a"
+        },
+        "TH": {
+            "note": "",
+            "time": "30 Day(s)",
+            "type": "f"
+        },
+        "TJ": {
+            "note": "",
+            "time": "45 Day(s)",
+            "type": "a"
+        },
+        "TK": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "TL": {
+            "note": "",
+            "time": "30 Day(s)",
+            "type": "a"
+        },
+        "TM": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "TN": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "TO": {
+            "note": "",
+            "time": "31 Day(s)",
+            "type": "a"
+        },
+        "TR": {
+            "note": "",
+            "time": "3 Month(s)",
+            "type": "f"
+        },
+        "TT": {
+            "note": "",
+            "time": "",
+            "type": "f"
+        },
+        "TV": {
+            "note": "",
+            "time": "1 Month(s)",
+            "type": "a"
+        },
+        "TW": {
+            "note": "",
+            "time": "30 Day(s)",
+            "type": "f"
+        },
+        "TZ": {
+            "note": "",
+            "time": "",
+            "type": "a"
+        },
+        "UA": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "UG": {
+            "note": "",
+            "time": "6 Month(s)",
+            "type": "f"
+        },
+        "UM": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "US": {
+            "note": "Electronic System for Travel Authorization",
+            "time": "",
+            "type": "e"
+        },
+        "UY": {
+            "note": "Except if born in Uruguay.",
+            "time": "",
+            "type": "r"
+        },
+        "UZ": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "VA": {
+            "note": "",
+            "time": "90 Day(s)",
+            "type": "f"
+        },
+        "VC": {
+            "note": "",
+            "time": "1 Month(s)",
+            "type": "f"
+        },
+        "VE": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "VG": {
+            "note": "",
+            "time": "",
+            "type": "f"
+        },
+        "VI": {
+            "note": "Except if arriving directly from US.",
+            "time": "",
+            "type": "r"
+        },
+        "VN": {
+            "note": "",
+            "time": "30 Day(s)",
+            "type": "f"
+        },
+        "VU": {
+            "note": "",
+            "time": "30 Day(s)",
+            "type": "f"
+        },
+        "WF": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "WS": {
+            "note": "",
+            "time": "60 Day(s)",
+            "type": "a"
+        },
+        "XK": {
+            "note": "",
+            "time": "90 Day(s)",
+            "type": "f"
+        },
+        "YE": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "YT": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "ZA": {
+            "note": "",
+            "time": "90 Day(s)",
+            "type": "f"
+        },
+        "ZM": {
+            "note": "",
+            "time": "90 Day(s)",
+            "type": "f"
+        },
+        "ZW": {
+            "note": "",
+            "time": "3 Month(s)",
+            "type": "f"
+        }
+    }
+}
