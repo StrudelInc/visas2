@@ -8,1257 +8,1257 @@
         "ABKH": {
             "note": "",
             "time": "",
-            "type": "f"
+            "type": "free"
         },
         "AFGH": {
             "note": "",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "AHVE": {
             "note": "",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "ALBA": {
             "note": "",
             "time": "1 Month(s)",
-            "type": "f"
+            "type": "free"
         },
         "ALGE": {
             "note": "",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "AMSA": {
             "note": "",
             "time": "30 Day(s)",
-            "type": "f"
+            "type": "free"
         },
         "ANBA": {
             "note": "",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "ANDO": {
             "note": "Apply regulation of France or Spain.",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "ANGO": {
             "note": "",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "ANGU": {
             "note": "",
             "time": "3 Month(s)",
-            "type": "f"
+            "type": "free"
         },
         "ANTA": {
             "note": "",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "ARGE": {
             "note": "",
             "time": "3 Month(s)",
-            "type": "f"
+            "type": "free"
         },
         "ARME": {
             "note": "",
             "time": "120 Day(s)",
-            "type": "a"
+            "type": "arrival"
         },
         "ARUB": {
             "note": "",
             "time": "30 Day(s)",
-            "type": "f"
+            "type": "free"
         },
         "AUST": {
             "note": "",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "AZER": {
             "note": "",
             "time": "30 Day(s)",
-            "type": "a"
+            "type": "arrival"
         },
         "BAHA": {
             "note": "",
             "time": "8 Month(s)",
-            "type": "f"
+            "type": "free"
         },
         "BAHR": {
             "note": "",
             "time": "3 Month(s)",
-            "type": "a"
+            "type": "arrival"
         },
         "BANG": {
             "note": "",
             "time": "90 Day(s)",
-            "type": "a"
+            "type": "arrival"
         },
         "BARB": {
             "note": "",
             "time": "6 Month(s)",
-            "type": "f"
+            "type": "free"
         },
         "BART": {
             "note": "",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "BELA": {
             "note": "",
             "time": "",
-            "type": "a"
+            "type": "arrival"
         },
         "BELG": {
             "note": "",
             "time": "90 Day(s)",
-            "type": "f"
+            "type": "free"
         },
         "BELI": {
             "note": "",
             "time": "1 Month(s)",
-            "type": "f"
+            "type": "free"
         },
         "BENI": {
             "note": "",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "BERM": {
             "note": "",
             "time": "6 Month(s)",
-            "type": "f"
+            "type": "free"
         },
         "BHUT": {
             "note": "",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "BIOT": {
             "note": "",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "BOLI": {
             "note": "",
             "time": "90 Day(s)",
-            "type": "f"
+            "type": "free"
         },
         "BOSN": {
             "note": "",
             "time": "90 Day(s)",
-            "type": "f"
+            "type": "free"
         },
         "BOTS": {
             "note": "",
             "time": "90 Day(s)",
-            "type": "f"
+            "type": "free"
         },
         "BOUV": {
             "note": "",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "BRAZ": {
             "note": "",
             "time": "90 Day(s)",
-            "type": "f"
+            "type": "free"
         },
         "BRIV": {
             "note": "",
             "time": "",
-            "type": "f"
+            "type": "free"
         },
         "BRUN": {
             "note": "",
             "time": "30 Day(s)",
-            "type": "f"
+            "type": "free"
         },
         "BULG": {
             "note": "",
             "time": "90 Day(s)",
-            "type": "f"
+            "type": "free"
         },
         "BURK": {
             "note": "Not required in extreme cases.",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "BURU": {
             "note": "Visa on arrival possible if there is no diplomatic representative of burundi located in country of origin.",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "CAMB": {
             "note": "",
             "time": "30 Day(s)",
-            "type": "a"
+            "type": "arrival"
         },
         "CAME": {
             "note": "",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "CANA": {
             "note": "",
             "time": "6 Month(s)",
-            "type": "f"
+            "type": "free"
         },
         "CAPE": {
             "note": "Not required for former nationals of cape verde islands. Visa on arrival for those coming from countries where no diplomatic re",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "CARI": {
             "note": "",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "CENT": {
             "note": "",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "CHAD": {
             "note": "",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "CHIL": {
             "note": "",
             "time": "90 Day(s)",
-            "type": "f"
+            "type": "free"
         },
         "CHIN": {
             "note": "",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "CHRI": {
             "note": "",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "CLMB": {
             "note": "",
             "time": "90 Day(s)",
-            "type": "f"
+            "type": "free"
         },
         "COCO": {
             "note": "",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "COMO": {
             "note": "",
             "time": "",
-            "type": "a"
+            "type": "arrival"
         },
         "CONG": {
             "note": "",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "COOK": {
             "note": "",
             "time": "31 Day(s)",
-            "type": "f"
+            "type": "free"
         },
         "COST": {
             "note": "",
             "time": "90 Day(s)",
-            "type": "f"
+            "type": "free"
         },
         "CROA": {
             "note": "",
             "time": "90 Day(s)",
-            "type": "f"
+            "type": "free"
         },
         "CUBA": {
             "note": "",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "CURA": {
             "note": "",
             "time": "3 Month(s)",
-            "type": "f"
+            "type": "free"
         },
         "CYPR": {
             "note": "",
             "time": "90 Day(s)",
-            "type": "f"
+            "type": "free"
         },
         "CZEC": {
             "note": "",
             "time": "3 Month(s)",
-            "type": "f"
+            "type": "free"
         },
         "DEMO": {
             "note": "",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "DENM": {
             "note": "",
             "time": "90 Day(s)",
-            "type": "f"
+            "type": "free"
         },
         "DEUT": {
             "note": "",
             "time": "90 Day(s)",
-            "type": "f"
+            "type": "free"
         },
         "DJIB": {
             "note": "",
             "time": "1 Month(s)",
-            "type": "a"
+            "type": "arrival"
         },
         "DOMI": {
             "note": "",
             "time": "6 Month(s)",
-            "type": "f"
+            "type": "free"
         },
         "DOMR": {
             "note": "",
             "time": "30 Day(s)",
-            "type": "a"
+            "type": "arrival"
         },
         "ECUA": {
             "note": "",
             "time": "90 Day(s)",
-            "type": "f"
+            "type": "free"
         },
         "EGUI": {
             "note": "",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "EGYP": {
             "note": "",
             "time": "15 Day(s)",
-            "type": "a"
+            "type": "arrival"
         },
         "ERIT": {
             "note": "",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "ESPA": {
             "note": "",
             "time": "3 Month(s)",
-            "type": "f"
+            "type": "free"
         },
         "ESTO": {
             "note": "",
             "time": "90 Day(s)",
-            "type": "f"
+            "type": "free"
         },
         "ETHI": {
             "note": "",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "FALK": {
             "note": "",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "FARO": {
             "note": "",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "FGUI": {
             "note": "",
             "time": "3 Month(s)",
-            "type": "f"
+            "type": "free"
         },
         "FIJI": {
             "note": "",
             "time": "4 Month(s)",
-            "type": "f"
+            "type": "free"
         },
         "FINL": {
             "note": "",
             "time": "90 Day(s)",
-            "type": "f"
+            "type": "free"
         },
         "FRAN": {
             "note": "",
             "time": "",
-            "type": "f"
+            "type": "free"
         },
         "FSAL": {
             "note": "",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "GABO": {
             "note": "",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "GAMB": {
             "note": "",
             "time": "90 Day(s)",
-            "type": "f"
+            "type": "free"
         },
         "GEOR": {
             "note": "",
             "time": "90 Day(s)",
-            "type": "f"
+            "type": "free"
         },
         "GHAN": {
             "note": "",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "GIBR": {
             "note": "",
             "time": "",
-            "type": "f"
+            "type": "free"
         },
         "GRCE": {
             "note": "",
             "time": "",
-            "type": "f"
+            "type": "free"
         },
         "GREE": {
             "note": "",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "GREN": {
             "note": "",
             "time": "6 Month(s)",
-            "type": "f"
+            "type": "free"
         },
         "GRGS": {
             "note": "",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "GUAD": {
             "note": "",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "GUAM": {
             "note": "",
             "time": "15 Day(s)",
-            "type": "f"
+            "type": "free"
         },
         "GUAT": {
             "note": "",
             "time": "90 Day(s)",
-            "type": "f"
+            "type": "free"
         },
         "GUER": {
             "note": "",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "GUIB": {
             "note": "",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "GUIN": {
             "note": "",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "GUYA": {
             "note": "",
             "time": "3 Month(s)",
-            "type": "f"
+            "type": "free"
         },
         "HAIT": {
             "note": "",
             "time": "3 Month(s)",
-            "type": "f"
+            "type": "free"
         },
         "HATC": {
             "note": "",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "HIMI": {
             "note": "",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "HKGK": {
             "note": "",
             "time": "3 Month(s)",
-            "type": "f"
+            "type": "free"
         },
         "HOND": {
             "note": "",
             "time": "3 Month(s)",
-            "type": "f"
+            "type": "free"
         },
         "HUNG": {
             "note": "",
             "time": "90 Day(s)",
-            "type": "f"
+            "type": "free"
         },
         "ICEL": {
             "note": "",
             "time": "3 Month(s)",
-            "type": "f"
+            "type": "free"
         },
         "INDI": {
             "note": "Except for those holding a PIO card (Person of Indian Origin).",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "INDO": {
             "note": "",
             "time": "30 Day(s)",
-            "type": "a"
+            "type": "arrival"
         },
         "IRAN": {
             "note": "",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "IRAQ": {
             "note": "Only available at Erbil international airport.",
             "time": "",
-            "type": "a"
+            "type": "arrival"
         },
         "IRLE": {
             "note": "",
             "time": "",
-            "type": "f"
+            "type": "free"
         },
         "ISLE": {
             "note": "",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "ISRA": {
             "note": "",
             "time": "3 Month(s)",
-            "type": "f"
+            "type": "free"
         },
         "ITAL": {
             "note": "",
             "time": "90 Day(s)",
-            "type": "f"
+            "type": "free"
         },
         "IVOR": {
             "note": "",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "JAMC": {
             "note": "",
             "time": "",
-            "type": "f"
+            "type": "free"
         },
         "JAPA": {
             "note": "",
             "time": "90 Day(s)",
-            "type": "f"
+            "type": "free"
         },
         "JERS": {
             "note": "",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "JORD": {
             "note": "",
             "time": "",
-            "type": "a"
+            "type": "arrival"
         },
         "KAZA": {
             "note": "",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "KENY": {
             "note": "",
             "time": "3 Month(s)",
-            "type": "a"
+            "type": "arrival"
         },
         "KIRI": {
             "note": "",
             "time": "28 Day(s)",
-            "type": "f"
+            "type": "free"
         },
         "KORN": {
             "note": "",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "KORR": {
             "note": "",
             "time": "3 Month(s)",
-            "type": "f"
+            "type": "free"
         },
         "KSVO": {
             "note": "",
             "time": "90 Day(s)",
-            "type": "f"
+            "type": "free"
         },
         "KUWA": {
             "note": "",
             "time": "3 Month(s)",
-            "type": "a"
+            "type": "arrival"
         },
         "KYRG": {
             "note": "",
             "time": "1 Month(s)",
-            "type": "a"
+            "type": "arrival"
         },
         "LAOS": {
             "note": "",
             "time": "30 Day(s)",
-            "type": "a"
+            "type": "arrival"
         },
         "LATV": {
             "note": "",
             "time": "90 Day(s)",
-            "type": "f"
+            "type": "free"
         },
         "LCAS": {
             "note": "",
             "time": "6 Week(s)",
-            "type": "f"
+            "type": "free"
         },
         "LEBA": {
             "note": "",
             "time": "3 Month(s)",
-            "type": "a"
+            "type": "arrival"
         },
         "LESO": {
             "note": "",
             "time": "14 Day(s)",
-            "type": "f"
+            "type": "free"
         },
         "LIBE": {
             "note": "Visa exemption if coming from country without diplomatic representation of Liberia.",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "LIBY": {
             "note": "",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "LIEC": {
             "note": "",
             "time": "3 Month(s)",
-            "type": "f"
+            "type": "free"
         },
         "LITH": {
             "note": "",
             "time": "90 Day(s)",
-            "type": "f"
+            "type": "free"
         },
         "LUXE": {
             "note": "",
             "time": "3 Month(s)",
-            "type": "f"
+            "type": "free"
         },
         "MAAS": {
             "note": "",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "MACA": {
             "note": "",
             "time": "6 Month(s)",
-            "type": "f"
+            "type": "free"
         },
         "MACE": {
             "note": "",
             "time": "90 Day(s)",
-            "type": "f"
+            "type": "free"
         },
         "MALA": {
             "note": "",
             "time": "90 Day(s)",
-            "type": "f"
+            "type": "free"
         },
         "MALD": {
             "note": "",
             "time": "30 Day(s)",
-            "type": "a"
+            "type": "arrival"
         },
         "MALI": {
             "note": "",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "MALT": {
             "note": "",
             "time": "90 Day(s)",
-            "type": "f"
+            "type": "free"
         },
         "MART": {
             "note": "",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "MAUR": {
             "note": "",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "MAYO": {
             "note": "",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "MDGS": {
             "note": "",
             "time": "90 Day(s)",
-            "type": "a"
+            "type": "arrival"
         },
         "MEXI": {
             "note": "",
             "time": "180 Day(s)",
-            "type": "f"
+            "type": "free"
         },
         "MICR": {
             "note": "",
             "time": "30 Day(s)",
-            "type": "f"
+            "type": "free"
         },
         "MOLD": {
             "note": "",
             "time": "90 Day(s)",
-            "type": "f"
+            "type": "free"
         },
         "MONA": {
             "note": "",
             "time": "3 Month(s)",
-            "type": "f"
+            "type": "free"
         },
         "MONG": {
             "note": "Visa on arrival if arriving from countries where there is no diplomatic representation of Mongolia.",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "MONT": {
             "note": "",
             "time": "90 Day(s)",
-            "type": "f"
+            "type": "free"
         },
         "MORO": {
             "note": "",
             "time": "3 Month(s)",
-            "type": "f"
+            "type": "free"
         },
         "MOZA": {
             "note": "",
             "time": "30 Day(s)",
-            "type": "a"
+            "type": "arrival"
         },
         "MRSI": {
             "note": "",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "MRTS": {
             "note": "",
             "time": "60 Day(s)",
-            "type": "f"
+            "type": "free"
         },
         "MSRT": {
             "note": "",
             "time": "3 Month(s)",
-            "type": "f"
+            "type": "free"
         },
         "MYAN": {
             "note": "",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "MYSA": {
             "note": "",
             "time": "3 Month(s)",
-            "type": "f"
+            "type": "free"
         },
         "NAMI": {
             "note": "",
             "time": "3 Month(s)",
-            "type": "f"
+            "type": "free"
         },
         "NAUR": {
             "note": "",
             "time": "",
-            "type": "a"
+            "type": "arrival"
         },
         "NCLD": {
             "note": "",
             "time": "3 Month(s)",
-            "type": "f"
+            "type": "free"
         },
         "NEPL": {
             "note": "",
             "time": "",
-            "type": "a"
+            "type": "arrival"
         },
         "NERI": {
             "note": "",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "NETH": {
             "note": "",
             "time": "90 Day(s)",
-            "type": "f"
+            "type": "free"
         },
         "NFKI": {
             "note": "",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "NICA": {
             "note": "",
             "time": "90 Day(s)",
-            "type": "f"
+            "type": "free"
         },
         "NIGE": {
             "note": "Except for former Nigeria Nationals.",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "NIUE": {
             "note": "",
             "time": "30 Day(s)",
-            "type": "f"
+            "type": "free"
         },
         "NOMI": {
             "note": "",
             "time": "30 Day(s)",
-            "type": "f"
+            "type": "free"
         },
         "NORW": {
             "note": "",
             "time": "3 Month(s)",
-            "type": "f"
+            "type": "free"
         },
         "NZLD": {
             "note": "",
             "time": "6 Month(s)",
-            "type": "f"
+            "type": "free"
         },
         "OMAN": {
             "note": "",
             "time": "1 Month(s)",
-            "type": "a"
+            "type": "arrival"
         },
         "OSSS": {
             "note": "",
             "time": "",
-            "type": "f"
+            "type": "free"
         },
         "OSTE": {
             "note": "",
             "time": "",
-            "type": "f"
+            "type": "free"
         },
         "PAKI": {
             "note": "Visa not needed if holding a Pakistan Origin Card (POC).",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "PALA": {
             "note": "",
             "time": "30 Day(s)",
-            "type": "a"
+            "type": "arrival"
         },
         "PALE": {
             "note": "Borders not controlled.",
             "time": "",
-            "type": "d"
+            "type": "declined"
         },
         "PANA": {
             "note": "",
             "time": "90 Day(s)",
-            "type": "f"
+            "type": "free"
         },
         "PERU": {
             "note": "",
             "time": "90 Day(s)",
-            "type": "f"
+            "type": "free"
         },
         "PHLP": {
             "note": "For more than 21 days up to 59 days, visa issued upon arrival.",
             "time": "21 Day(s)",
-            "type": "f"
+            "type": "free"
         },
         "PIIS": {
             "note": "",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "PNGU": {
             "note": "",
             "time": "60 Day(s)",
-            "type": "a"
+            "type": "arrival"
         },
         "POLA": {
             "note": "",
             "time": "90 Day(s)",
-            "type": "f"
+            "type": "free"
         },
         "PRIC": {
             "note": "Except if arriving directly from US.",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "PRTG": {
             "note": "",
             "time": "90 Day(s)",
-            "type": "f"
+            "type": "free"
         },
         "PRYG": {
             "note": "",
             "time": "90 Day(s)",
-            "type": "f"
+            "type": "free"
         },
         "PYFR": {
             "note": "",
             "time": "3 Month(s)",
-            "type": "f"
+            "type": "free"
         },
         "QATA": {
             "note": "",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "REUN": {
             "note": "",
             "time": "3 Month(s)",
-            "type": "f"
+            "type": "free"
         },
         "ROMA": {
             "note": "",
             "time": "90 Day(s)",
-            "type": "f"
+            "type": "free"
         },
         "RUSS": {
             "note": "",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "RWAN": {
             "note": "",
             "time": "90 Day(s)",
-            "type": "f"
+            "type": "free"
         },
         "SAMO": {
             "note": "",
             "time": "60 Day(s)",
-            "type": "a"
+            "type": "arrival"
         },
         "SAN ": {
             "note": "Same rules as for italy.",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "SAUD": {
             "note": "",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "SENE": {
             "note": "",
             "time": "3 Month(s)",
-            "type": "f"
+            "type": "free"
         },
         "SERB": {
             "note": "",
             "time": "90 Day(s)",
-            "type": "f"
+            "type": "free"
         },
         "SEYC": {
             "note": "",
             "time": "1 Month(s)",
-            "type": "a"
+            "type": "arrival"
         },
         "SIER": {
             "note": "",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "SING": {
             "note": "",
             "time": "30 Day(s)",
-            "type": "f"
+            "type": "free"
         },
         "SKAN": {
             "note": "",
             "time": "3 Month(s)",
-            "type": "f"
+            "type": "free"
         },
         "SLOV": {
             "note": "",
             "time": "90 Day(s)",
-            "type": "f"
+            "type": "free"
         },
         "SLVE": {
             "note": "",
             "time": "",
-            "type": "f"
+            "type": "free"
         },
         "SMRT": {
             "note": "",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "SOLO": {
             "note": "",
             "time": "3 Month(s)",
-            "type": "a"
+            "type": "arrival"
         },
         "SOMA": {
             "note": "Except if of Somali origin.",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "SPNM": {
             "note": "",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "SRIL": {
             "note": "",
             "time": "30 Day(s)",
-            "type": "a"
+            "type": "arrival"
         },
         "STNP": {
             "note": "Registration made by airline.",
             "time": "1 Month(s)",
-            "type": "a"
+            "type": "arrival"
         },
         "SUDA": {
             "note": "Except if of Sudanese origin.",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "SUDS": {
             "note": "",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "SURI": {
             "note": "",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "SVJM": {
             "note": "",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "SVKI": {
             "note": "",
             "time": "90 Day(s)",
-            "type": "f"
+            "type": "free"
         },
         "SVNG": {
             "note": "",
             "time": "1 Month(s)",
-            "type": "f"
+            "type": "free"
         },
         "SWAZ": {
             "note": "",
             "time": "",
-            "type": "a"
+            "type": "arrival"
         },
         "SWED": {
             "note": "",
             "time": "3 Month(s)",
-            "type": "f"
+            "type": "free"
         },
         "SWTZ": {
             "note": "",
             "time": "3 Month(s)",
-            "type": "f"
+            "type": "free"
         },
         "SYRI": {
             "note": "Except if born in an arabic country.",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "TAIW": {
             "note": "",
             "time": "30 Day(s)",
-            "type": "f"
+            "type": "free"
         },
         "TAJI": {
             "note": "",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "TANZ": {
             "note": "",
             "time": "",
-            "type": "a"
+            "type": "arrival"
         },
         "TCAI": {
             "note": "",
             "time": "30 Day(s)",
-            "type": "f"
+            "type": "free"
         },
         "THAI": {
             "note": "",
             "time": "30 Day(s)",
-            "type": "f"
+            "type": "free"
         },
         "TLSE": {
             "note": "",
             "time": "30 Day(s)",
-            "type": "a"
+            "type": "arrival"
         },
         "TOGO": {
             "note": "",
             "time": "7 Day(s)",
-            "type": "a"
+            "type": "arrival"
         },
         "TOKE": {
             "note": "",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "TONG": {
             "note": "",
             "time": "31 Day(s)",
-            "type": "a"
+            "type": "arrival"
         },
         "TRKM": {
             "note": "",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "TTOG": {
             "note": "",
             "time": "90 Day(s)",
-            "type": "f"
+            "type": "free"
         },
         "TUNI": {
             "note": "",
             "time": "3 Month(s)",
-            "type": "f"
+            "type": "free"
         },
         "TURK": {
             "note": "",
             "time": "3 Month(s)",
-            "type": "a"
+            "type": "arrival"
         },
         "TUVA": {
             "note": "",
             "time": "1 Month(s)",
-            "type": "a"
+            "type": "arrival"
         },
         "UAEM": {
             "note": "",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "UGAN": {
             "note": "",
             "time": "",
-            "type": "a"
+            "type": "arrival"
         },
         "UKBI": {
             "note": "",
             "time": "",
-            "type": "f"
+            "type": "free"
         },
         "UKRA": {
             "note": "",
             "time": "90 Day(s)",
-            "type": "f"
+            "type": "free"
         },
         "URUG": {
             "note": "",
             "time": "3 Month(s)",
-            "type": "f"
+            "type": "free"
         },
         "USMO": {
             "note": "",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "USOA": {
             "note": "With Visa Waiver Program.",
             "time": "90 Day(s)",
-            "type": "f"
+            "type": "free"
         },
         "USVI": {
             "note": "Except if arriving directly from US.",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "UZBE": {
             "note": "",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "VANU": {
             "note": "",
             "time": "30 Day(s)",
-            "type": "f"
+            "type": "free"
         },
         "VATI": {
             "note": "",
             "time": "",
-            "type": "f"
+            "type": "free"
         },
         "VENE": {
             "note": "",
             "time": "90 Day(s)",
-            "type": "f"
+            "type": "free"
         },
         "VIET": {
             "note": "",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "WLSF": {
             "note": "",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "WSAH": {
             "note": "",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "YEMN": {
             "note": "",
             "time": "",
-            "type": "r"
+            "type": "required"
         },
         "ZAFR": {
             "note": "",
             "time": "90 Day(s)",
-            "type": "f"
+            "type": "free"
         },
         "ZIMB": {
             "note": "3 months for holiday, 30 days for business.",
             "time": "3 Month(s)",
-            "type": "a"
+            "type": "arrival"
         },
         "ZMBI": {
             "note": "",
             "time": "90 Day(s)",
-            "type": "a"
+            "type": "arrival"
         }
     }
 }
