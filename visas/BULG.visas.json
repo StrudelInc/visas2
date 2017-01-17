@@ -1926,16 +1926,6 @@
             },
             "time": "60 Day(s)"
         },
-        "SAN ": {
-            "conflict": [],
-            "note": "Same rules as for italy.",
-            "permission": "required",
-            "required": {
-                "passport_blank_pages": 2,
-                "passport_expiry": 3
-            },
-            "time": ""
-        },
         "SAUD": {
             "conflict": [],
             "note": "Cooperation Council for the Arab States of the Gulf",
@@ -2025,6 +2015,16 @@
                 "passport_expiry": 3
             },
             "time": "3 Month(s)"
+        },
+        "SMRN": {
+            "conflict": [],
+            "note": "Same rules as for italy.",
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "SMRT": {
             "conflict": [],

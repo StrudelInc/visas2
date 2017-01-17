@@ -1926,16 +1926,6 @@
             },
             "time": ""
         },
-        "SAN ": {
-            "conflict": [],
-            "note": "Same rules as for italy.",
-            "permission": "required",
-            "required": {
-                "passport_blank_pages": 2,
-                "passport_expiry": 3
-            },
-            "time": ""
-        },
         "SAUD": {
             "conflict": [],
             "note": "",
@@ -2020,6 +2010,16 @@
             "conflict": [],
             "note": "",
             "permission": "free",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
+        },
+        "SMRN": {
+            "conflict": [],
+            "note": "Same rules as for italy.",
+            "permission": "required",
             "required": {
                 "passport_blank_pages": 2,
                 "passport_expiry": 3
