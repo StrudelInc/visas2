@@ -3,7 +3,9 @@
     "cca3": "",
     "ccn3": "",
     "csvc": "HATC",
+    "jurisdiction": "state",
     "name": "Saint Helena, Ascension and Tristan da Cunha",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

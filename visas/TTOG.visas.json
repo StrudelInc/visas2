@@ -3,7 +3,9 @@
     "cca3": "TTO",
     "ccn3": "780",
     "csvc": "TTOG",
+    "jurisdiction": "state",
     "name": "Trinidad and Tobago",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

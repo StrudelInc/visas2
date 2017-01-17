@@ -3,7 +3,9 @@
     "cca3": "LTU",
     "ccn3": "440",
     "csvc": "LITH",
+    "jurisdiction": "state",
     "name": "Lithuania",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

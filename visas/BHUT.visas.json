@@ -3,7 +3,9 @@
     "cca3": "BTN",
     "ccn3": "064",
     "csvc": "BHUT",
+    "jurisdiction": "state",
     "name": "Bhutan",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

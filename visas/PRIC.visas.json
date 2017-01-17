@@ -3,7 +3,9 @@
     "cca3": "PRI",
     "ccn3": "630",
     "csvc": "PRIC",
+    "jurisdiction": "state",
     "name": "Puerto Rico",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

@@ -3,7 +3,9 @@
     "cca3": "MDA",
     "ccn3": "498",
     "csvc": "MOLD",
+    "jurisdiction": "state",
     "name": "Moldova",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

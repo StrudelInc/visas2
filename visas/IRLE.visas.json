@@ -3,7 +3,9 @@
     "cca3": "IRL",
     "ccn3": "372",
     "csvc": "IRLE",
+    "jurisdiction": "state",
     "name": "Ireland",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

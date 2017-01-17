@@ -3,7 +3,9 @@
     "cca3": "SYR",
     "ccn3": "760",
     "csvc": "SYRI",
+    "jurisdiction": "state",
     "name": "Syria",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

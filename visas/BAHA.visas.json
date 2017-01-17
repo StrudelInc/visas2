@@ -3,7 +3,9 @@
     "cca3": "BHS",
     "ccn3": "044",
     "csvc": "BAHA",
+    "jurisdiction": "state",
     "name": "Bahamas",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

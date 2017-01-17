@@ -3,7 +3,9 @@
     "cca3": "ARE",
     "ccn3": "784",
     "csvc": "UAEM",
+    "jurisdiction": "state",
     "name": "United Arab Emirates",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

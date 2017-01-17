@@ -3,7 +3,9 @@
     "cca3": "EGY",
     "ccn3": "818",
     "csvc": "EGYP",
+    "jurisdiction": "state",
     "name": "Egypt",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

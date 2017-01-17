@@ -3,7 +3,9 @@
     "cca3": "COM",
     "ccn3": "174",
     "csvc": "COMO",
+    "jurisdiction": "state",
     "name": "Comoros",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

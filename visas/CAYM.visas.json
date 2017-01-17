@@ -3,7 +3,9 @@
     "cca3": "CYM",
     "ccn3": "136",
     "csvc": "CAYM",
+    "jurisdiction": "state",
     "name": "Cayman Islands",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

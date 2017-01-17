@@ -3,7 +3,9 @@
     "cca3": "BRN",
     "ccn3": "096",
     "csvc": "BRUN",
+    "jurisdiction": "state",
     "name": "Brunei",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

@@ -3,7 +3,9 @@
     "cca3": "",
     "ccn3": "",
     "csvc": "WSAH",
+    "jurisdiction": "state",
     "name": "Western Sahara",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

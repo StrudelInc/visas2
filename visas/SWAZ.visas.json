@@ -3,7 +3,9 @@
     "cca3": "SWZ",
     "ccn3": "748",
     "csvc": "SWAZ",
+    "jurisdiction": "state",
     "name": "Swaziland",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

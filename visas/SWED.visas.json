@@ -3,7 +3,9 @@
     "cca3": "SWE",
     "ccn3": "752",
     "csvc": "SWED",
+    "jurisdiction": "state",
     "name": "Sweden",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

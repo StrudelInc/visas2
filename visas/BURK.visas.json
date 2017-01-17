@@ -3,7 +3,9 @@
     "cca3": "BFA",
     "ccn3": "854",
     "csvc": "BURK",
+    "jurisdiction": "state",
     "name": "Burkina Faso",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

@@ -3,7 +3,9 @@
     "cca3": "PRT",
     "ccn3": "620",
     "csvc": "PRTG",
+    "jurisdiction": "state",
     "name": "Portugal",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

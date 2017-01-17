@@ -3,7 +3,9 @@
     "cca3": "EST",
     "ccn3": "233",
     "csvc": "ESTO",
+    "jurisdiction": "state",
     "name": "Estonia",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

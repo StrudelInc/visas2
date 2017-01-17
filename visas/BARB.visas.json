@@ -3,7 +3,9 @@
     "cca3": "BRB",
     "ccn3": "052",
     "csvc": "BARB",
+    "jurisdiction": "state",
     "name": "Barbados",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

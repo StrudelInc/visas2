@@ -3,7 +3,9 @@
     "cca3": "KIR",
     "ccn3": "296",
     "csvc": "KIRI",
+    "jurisdiction": "state",
     "name": "Kiribati",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

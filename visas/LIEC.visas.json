@@ -3,7 +3,9 @@
     "cca3": "LIE",
     "ccn3": "438",
     "csvc": "LIEC",
+    "jurisdiction": "state",
     "name": "Liechtenstein",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

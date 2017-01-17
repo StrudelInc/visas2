@@ -3,7 +3,9 @@
     "cca3": "",
     "ccn3": "",
     "csvc": "CARI",
+    "jurisdiction": "state",
     "name": "Caribbean Netherlands",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

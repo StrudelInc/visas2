@@ -3,7 +3,9 @@
     "cca3": "DNK",
     "ccn3": "208",
     "csvc": "DENM",
+    "jurisdiction": "state",
     "name": "Denmark",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

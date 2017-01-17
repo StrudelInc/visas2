@@ -3,7 +3,9 @@
     "cca3": "CMR",
     "ccn3": "120",
     "csvc": "CAME",
+    "jurisdiction": "state",
     "name": "Cameroon",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

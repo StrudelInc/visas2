@@ -3,7 +3,9 @@
     "cca3": "MHL",
     "ccn3": "584",
     "csvc": "MRSI",
+    "jurisdiction": "state",
     "name": "Marshall Islands",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

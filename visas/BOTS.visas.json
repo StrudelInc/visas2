@@ -3,7 +3,9 @@
     "cca3": "BWA",
     "ccn3": "072",
     "csvc": "BOTS",
+    "jurisdiction": "state",
     "name": "Botswana",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

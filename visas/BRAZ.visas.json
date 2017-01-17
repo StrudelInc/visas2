@@ -3,7 +3,9 @@
     "cca3": "BRA",
     "ccn3": "076",
     "csvc": "BRAZ",
+    "jurisdiction": "state",
     "name": "Brazil",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

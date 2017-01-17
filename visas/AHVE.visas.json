@@ -3,7 +3,9 @@
     "cca3": "",
     "ccn3": "",
     "csvc": "AHVE",
+    "jurisdiction": "state",
     "name": "\u00c5land Islands",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

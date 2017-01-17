@@ -3,7 +3,9 @@
     "cca3": "MDG",
     "ccn3": "450",
     "csvc": "MDGS",
+    "jurisdiction": "state",
     "name": "Madagascar",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

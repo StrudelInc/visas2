@@ -3,7 +3,9 @@
     "cca3": "AUT",
     "ccn3": "040",
     "csvc": "OSTE",
+    "jurisdiction": "state",
     "name": "Austria",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

@@ -3,7 +3,9 @@
     "cca3": "LBY",
     "ccn3": "434",
     "csvc": "LIBY",
+    "jurisdiction": "state",
     "name": "Libya",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

@@ -3,7 +3,9 @@
     "cca3": "BGR",
     "ccn3": "100",
     "csvc": "BULG",
+    "jurisdiction": "state",
     "name": "Bulgaria",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

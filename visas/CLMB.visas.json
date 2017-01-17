@@ -3,7 +3,9 @@
     "cca3": "COL",
     "ccn3": "170",
     "csvc": "CLMB",
+    "jurisdiction": "state",
     "name": "Colombia",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

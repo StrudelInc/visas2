@@ -3,7 +3,9 @@
     "cca3": "",
     "ccn3": "",
     "csvc": "BIOT",
+    "jurisdiction": "state",
     "name": "British Indian Ocean Territory",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

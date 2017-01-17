@@ -3,7 +3,9 @@
     "cca3": "DOM",
     "ccn3": "214",
     "csvc": "DOMR",
+    "jurisdiction": "state",
     "name": "Dominican Republic",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

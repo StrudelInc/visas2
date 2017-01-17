@@ -3,7 +3,9 @@
     "cca3": "SVK",
     "ccn3": "703",
     "csvc": "SVKI",
+    "jurisdiction": "state",
     "name": "Slovakia",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

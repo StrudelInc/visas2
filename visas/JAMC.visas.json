@@ -3,7 +3,9 @@
     "cca3": "JAM",
     "ccn3": "388",
     "csvc": "JAMC",
+    "jurisdiction": "state",
     "name": "Jamaica",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

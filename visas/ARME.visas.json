@@ -3,7 +3,9 @@
     "cca3": "ARM",
     "ccn3": "051",
     "csvc": "ARME",
+    "jurisdiction": "state",
     "name": "Armenia",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

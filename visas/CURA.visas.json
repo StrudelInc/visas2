@@ -3,7 +3,9 @@
     "cca3": "CUW",
     "ccn3": "531",
     "csvc": "CURA",
+    "jurisdiction": "state",
     "name": "Cura\u00e7ao",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

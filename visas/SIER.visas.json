@@ -3,7 +3,9 @@
     "cca3": "SLE",
     "ccn3": "694",
     "csvc": "SIER",
+    "jurisdiction": "state",
     "name": "Sierra Leone",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

@@ -3,7 +3,9 @@
     "cca3": "ABW",
     "ccn3": "533",
     "csvc": "ARUB",
+    "jurisdiction": "state",
     "name": "Aruba",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

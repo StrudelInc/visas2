@@ -3,7 +3,9 @@
     "cca3": "CHE",
     "ccn3": "756",
     "csvc": "SWTZ",
+    "jurisdiction": "state",
     "name": "Switzerland",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

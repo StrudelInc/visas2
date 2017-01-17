@@ -3,7 +3,9 @@
     "cca3": "LKA",
     "ccn3": "144",
     "csvc": "SRIL",
+    "jurisdiction": "state",
     "name": "Sri Lanka",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

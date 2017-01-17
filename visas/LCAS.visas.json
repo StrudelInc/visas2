@@ -3,7 +3,9 @@
     "cca3": "LCA",
     "ccn3": "662",
     "csvc": "LCAS",
+    "jurisdiction": "state",
     "name": "Saint Lucia",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

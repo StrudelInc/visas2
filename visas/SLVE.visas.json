@@ -3,7 +3,9 @@
     "cca3": "SLV",
     "ccn3": "222",
     "csvc": "SLVE",
+    "jurisdiction": "state",
     "name": "El Salvador",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

@@ -3,7 +3,9 @@
     "cca3": "KAZ",
     "ccn3": "398",
     "csvc": "KAZA",
+    "jurisdiction": "state",
     "name": "Kazakhstan",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

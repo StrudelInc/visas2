@@ -3,7 +3,9 @@
     "cca3": "PRY",
     "ccn3": "600",
     "csvc": "PRYG",
+    "jurisdiction": "state",
     "name": "Paraguay",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

@@ -3,7 +3,9 @@
     "cca3": "ETH",
     "ccn3": "231",
     "csvc": "ETHI",
+    "jurisdiction": "state",
     "name": "Ethiopia",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

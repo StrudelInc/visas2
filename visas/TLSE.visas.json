@@ -3,7 +3,9 @@
     "cca3": "TLS",
     "ccn3": "626",
     "csvc": "TLSE",
+    "jurisdiction": "state",
     "name": "Timor-Leste",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

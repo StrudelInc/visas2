@@ -3,7 +3,9 @@
     "cca3": "TKM",
     "ccn3": "795",
     "csvc": "TRKM",
+    "jurisdiction": "state",
     "name": "Turkmenistan",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

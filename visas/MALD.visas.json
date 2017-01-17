@@ -3,7 +3,9 @@
     "cca3": "MDV",
     "ccn3": "462",
     "csvc": "MALD",
+    "jurisdiction": "state",
     "name": "Maldives",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

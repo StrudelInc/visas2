@@ -3,7 +3,9 @@
     "cca3": "MAC",
     "ccn3": "446",
     "csvc": "MACA",
+    "jurisdiction": "state",
     "name": "Macau",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

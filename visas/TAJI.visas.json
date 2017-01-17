@@ -3,7 +3,9 @@
     "cca3": "TJK",
     "ccn3": "762",
     "csvc": "TAJI",
+    "jurisdiction": "state",
     "name": "Tajikistan",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

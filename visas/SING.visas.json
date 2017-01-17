@@ -3,7 +3,9 @@
     "cca3": "SGP",
     "ccn3": "702",
     "csvc": "SING",
+    "jurisdiction": "state",
     "name": "Singapore",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

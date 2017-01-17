@@ -3,7 +3,9 @@
     "cca3": "BGD",
     "ccn3": "050",
     "csvc": "BANG",
+    "jurisdiction": "state",
     "name": "Bangladesh",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

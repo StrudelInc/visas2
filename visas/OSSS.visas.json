@@ -3,7 +3,9 @@
     "cca3": "",
     "ccn3": "",
     "csvc": "OSSS",
+    "jurisdiction": "state",
     "name": "South Ossetia",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

@@ -3,7 +3,9 @@
     "cca3": "PHL",
     "ccn3": "608",
     "csvc": "PHLP",
+    "jurisdiction": "state",
     "name": "Philippines",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

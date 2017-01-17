@@ -3,7 +3,9 @@
     "cca3": "PSE",
     "ccn3": "275",
     "csvc": "PALE",
+    "jurisdiction": "state",
     "name": "Palestine",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

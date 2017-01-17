@@ -3,7 +3,9 @@
     "cca3": "IRN",
     "ccn3": "364",
     "csvc": "IRAN",
+    "jurisdiction": "state",
     "name": "Iran",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

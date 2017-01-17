@@ -3,7 +3,9 @@
     "cca3": "AND",
     "ccn3": "020",
     "csvc": "ANDO",
+    "jurisdiction": "state",
     "name": "Andorra",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

@@ -3,7 +3,9 @@
     "cca3": "ERI",
     "ccn3": "232",
     "csvc": "ERIT",
+    "jurisdiction": "state",
     "name": "Eritrea",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

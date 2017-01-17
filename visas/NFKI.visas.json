@@ -3,7 +3,9 @@
     "cca3": "NFK",
     "ccn3": "574",
     "csvc": "NFKI",
+    "jurisdiction": "state",
     "name": "Norfolk Island",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

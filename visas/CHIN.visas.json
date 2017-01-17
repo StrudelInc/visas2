@@ -3,7 +3,9 @@
     "cca3": "CHN",
     "ccn3": "156",
     "csvc": "CHIN",
+    "jurisdiction": "state",
     "name": "China",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

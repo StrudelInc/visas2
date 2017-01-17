@@ -3,7 +3,9 @@
     "cca3": "UGA",
     "ccn3": "800",
     "csvc": "UGAN",
+    "jurisdiction": "state",
     "name": "Uganda",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

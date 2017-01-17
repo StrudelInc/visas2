@@ -3,7 +3,9 @@
     "cca3": "PLW",
     "ccn3": "585",
     "csvc": "PALA",
+    "jurisdiction": "state",
     "name": "Palau",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

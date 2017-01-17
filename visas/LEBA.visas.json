@@ -3,7 +3,9 @@
     "cca3": "LBN",
     "ccn3": "422",
     "csvc": "LEBA",
+    "jurisdiction": "state",
     "name": "Lebanon",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

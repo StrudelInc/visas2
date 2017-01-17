@@ -3,7 +3,9 @@
     "cca3": "SEN",
     "ccn3": "686",
     "csvc": "SENE",
+    "jurisdiction": "state",
     "name": "Senegal",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

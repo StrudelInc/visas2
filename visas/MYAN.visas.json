@@ -3,7 +3,9 @@
     "cca3": "MMR",
     "ccn3": "104",
     "csvc": "MYAN",
+    "jurisdiction": "state",
     "name": "Myanmar",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

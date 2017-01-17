@@ -3,7 +3,9 @@
     "cca3": "BEL",
     "ccn3": "056",
     "csvc": "BELG",
+    "jurisdiction": "state",
     "name": "Belgium",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

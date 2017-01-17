@@ -3,7 +3,9 @@
     "cca3": "LUX",
     "ccn3": "442",
     "csvc": "LUXE",
+    "jurisdiction": "state",
     "name": "Luxembourg",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

@@ -3,7 +3,9 @@
     "cca3": "NER",
     "ccn3": "562",
     "csvc": "NERI",
+    "jurisdiction": "state",
     "name": "Niger",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

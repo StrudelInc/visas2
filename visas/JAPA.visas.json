@@ -3,7 +3,9 @@
     "cca3": "JPN",
     "ccn3": "392",
     "csvc": "JAPA",
+    "jurisdiction": "state",
     "name": "Japan",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

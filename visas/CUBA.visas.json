@@ -3,7 +3,9 @@
     "cca3": "CUB",
     "ccn3": "192",
     "csvc": "CUBA",
+    "jurisdiction": "state",
     "name": "Cuba",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

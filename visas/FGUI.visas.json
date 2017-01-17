@@ -3,7 +3,9 @@
     "cca3": "GUF",
     "ccn3": "254",
     "csvc": "FGUI",
+    "jurisdiction": "state",
     "name": "French Guiana",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

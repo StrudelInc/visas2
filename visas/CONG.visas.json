@@ -3,7 +3,9 @@
     "cca3": "COG",
     "ccn3": "178",
     "csvc": "CONG",
+    "jurisdiction": "state",
     "name": "Republic of the Congo",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

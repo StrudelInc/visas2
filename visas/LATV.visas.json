@@ -3,7 +3,9 @@
     "cca3": "LVA",
     "ccn3": "428",
     "csvc": "LATV",
+    "jurisdiction": "state",
     "name": "Latvia",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

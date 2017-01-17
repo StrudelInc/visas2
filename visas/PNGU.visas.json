@@ -3,7 +3,9 @@
     "cca3": "PNG",
     "ccn3": "598",
     "csvc": "PNGU",
+    "jurisdiction": "state",
     "name": "Papua New Guinea",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

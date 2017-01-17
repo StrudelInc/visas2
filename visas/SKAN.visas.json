@@ -3,7 +3,9 @@
     "cca3": "KNA",
     "ccn3": "KN",
     "csvc": "SKAN",
+    "jurisdiction": "state",
     "name": "Saint Kitts and Nevis",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

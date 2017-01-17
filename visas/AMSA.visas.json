@@ -3,7 +3,9 @@
     "cca3": "ASM",
     "ccn3": "016",
     "csvc": "AMSA",
+    "jurisdiction": "state",
     "name": "American Samoa",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

@@ -3,7 +3,9 @@
     "cca3": "ALB",
     "ccn3": "008",
     "csvc": "ALBA",
+    "jurisdiction": "state",
     "name": "Albania",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

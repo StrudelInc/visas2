@@ -3,7 +3,9 @@
     "cca3": "KOR",
     "ccn3": "410",
     "csvc": "KORR",
+    "jurisdiction": "state",
     "name": "South Korea",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

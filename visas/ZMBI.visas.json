@@ -3,7 +3,9 @@
     "cca3": "ZMB",
     "ccn3": "894",
     "csvc": "ZMBI",
+    "jurisdiction": "state",
     "name": "Zambia",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

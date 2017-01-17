@@ -3,7 +3,9 @@
     "cca3": "MNP",
     "ccn3": "580",
     "csvc": "NOMI",
+    "jurisdiction": "state",
     "name": "Northern Mariana Islands",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

@@ -3,7 +3,9 @@
     "cca3": "",
     "ccn3": "",
     "csvc": "FSAL",
+    "jurisdiction": "state",
     "name": "French Southern and Antarctic Lands",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

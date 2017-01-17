@@ -3,7 +3,9 @@
     "cca3": "GRC",
     "ccn3": "300",
     "csvc": "GRCE",
+    "jurisdiction": "state",
     "name": "Greece",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

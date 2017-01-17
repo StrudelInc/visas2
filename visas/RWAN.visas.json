@@ -3,7 +3,9 @@
     "cca3": "RWA",
     "ccn3": "646",
     "csvc": "RWAN",
+    "jurisdiction": "state",
     "name": "Rwanda",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

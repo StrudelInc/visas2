@@ -3,7 +3,9 @@
     "cca3": "CPV",
     "ccn3": "132",
     "csvc": "CAPE",
+    "jurisdiction": "state",
     "name": "Cape Verde",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

@@ -3,7 +3,9 @@
     "cca3": "USA",
     "ccn3": "840",
     "csvc": "USOA",
+    "jurisdiction": "state",
     "name": "United States",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

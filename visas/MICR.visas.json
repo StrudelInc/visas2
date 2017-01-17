@@ -3,7 +3,9 @@
     "cca3": "FSM",
     "ccn3": "583",
     "csvc": "MICR",
+    "jurisdiction": "state",
     "name": "Micronesia",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

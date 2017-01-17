@@ -3,7 +3,9 @@
     "cca3": "GRD",
     "ccn3": "308",
     "csvc": "GREN",
+    "jurisdiction": "state",
     "name": "Grenada",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

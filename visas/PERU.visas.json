@@ -3,7 +3,9 @@
     "cca3": "PER",
     "ccn3": "604",
     "csvc": "PERU",
+    "jurisdiction": "state",
     "name": "Peru",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

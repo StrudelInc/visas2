@@ -3,7 +3,9 @@
     "cca3": "VAT",
     "ccn3": "336",
     "csvc": "VATI",
+    "jurisdiction": "state",
     "name": "Vatican City",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

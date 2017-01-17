@@ -3,7 +3,9 @@
     "cca3": "TGO",
     "ccn3": "768",
     "csvc": "TOGO",
+    "jurisdiction": "state",
     "name": "Togo",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

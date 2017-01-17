@@ -3,7 +3,9 @@
     "cca3": "",
     "ccn3": "",
     "csvc": "SPNM",
+    "jurisdiction": "state",
     "name": "Saint Pierre and Miquelon",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

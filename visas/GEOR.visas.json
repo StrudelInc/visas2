@@ -3,7 +3,9 @@
     "cca3": "GEO",
     "ccn3": "268",
     "csvc": "GEOR",
+    "jurisdiction": "state",
     "name": "Georgia",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

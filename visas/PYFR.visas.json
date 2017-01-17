@@ -3,7 +3,9 @@
     "cca3": "PYF",
     "ccn3": "258",
     "csvc": "PYFR",
+    "jurisdiction": "state",
     "name": "French Polynesia",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

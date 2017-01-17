@@ -3,7 +3,9 @@
     "cca3": "",
     "ccn3": "",
     "csvc": "CHRI",
+    "jurisdiction": "state",
     "name": "Christmas Island",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

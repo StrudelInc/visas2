@@ -3,7 +3,9 @@
     "cca3": "DJI",
     "ccn3": "262",
     "csvc": "DJIB",
+    "jurisdiction": "state",
     "name": "Djibouti",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

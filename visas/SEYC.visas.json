@@ -3,7 +3,9 @@
     "cca3": "SYC",
     "ccn3": "690",
     "csvc": "SEYC",
+    "jurisdiction": "state",
     "name": "Seychelles",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

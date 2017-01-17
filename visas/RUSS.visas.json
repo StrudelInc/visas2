@@ -3,7 +3,9 @@
     "cca3": "RUS",
     "ccn3": "643",
     "csvc": "RUSS",
+    "jurisdiction": "state",
     "name": "Russia",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

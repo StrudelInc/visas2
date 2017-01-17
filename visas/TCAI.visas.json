@@ -3,7 +3,9 @@
     "cca3": "TCA",
     "ccn3": "796",
     "csvc": "TCAI",
+    "jurisdiction": "state",
     "name": "Turks and Caicos Islands",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

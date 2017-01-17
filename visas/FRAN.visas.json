@@ -3,7 +3,9 @@
     "cca3": "FRA",
     "ccn3": "250",
     "csvc": "FRAN",
+    "jurisdiction": "state",
     "name": "France",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

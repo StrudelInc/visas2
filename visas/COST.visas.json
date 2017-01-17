@@ -3,7 +3,9 @@
     "cca3": "CRI",
     "ccn3": "188",
     "csvc": "COST",
+    "jurisdiction": "state",
     "name": "Costa Rica",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

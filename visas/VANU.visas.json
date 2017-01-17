@@ -3,7 +3,9 @@
     "cca3": "VUT",
     "ccn3": "548",
     "csvc": "VANU",
+    "jurisdiction": "state",
     "name": "Vanuatu",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

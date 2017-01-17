@@ -3,7 +3,9 @@
     "cca3": "VNM",
     "ccn3": "704",
     "csvc": "VIET",
+    "jurisdiction": "state",
     "name": "Vietnam",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

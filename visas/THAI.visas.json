@@ -3,7 +3,9 @@
     "cca3": "THA",
     "ccn3": "764",
     "csvc": "THAI",
+    "jurisdiction": "state",
     "name": "Thailand",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

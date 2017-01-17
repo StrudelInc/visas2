@@ -3,7 +3,9 @@
     "cca3": "MEX",
     "ccn3": "484",
     "csvc": "MEXI",
+    "jurisdiction": "state",
     "name": "Mexico",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

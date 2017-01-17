@@ -3,7 +3,9 @@
     "cca3": "IRQ",
     "ccn3": "368",
     "csvc": "IRAQ",
+    "jurisdiction": "state",
     "name": "Iraq",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

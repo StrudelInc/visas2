@@ -3,7 +3,9 @@
     "cca3": "ARG",
     "ccn3": "032",
     "csvc": "ARGE",
+    "jurisdiction": "state",
     "name": "Argentina",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

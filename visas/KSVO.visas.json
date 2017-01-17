@@ -3,7 +3,9 @@
     "cca3": "KOS",
     "ccn3": "780",
     "csvc": "KSVO",
+    "jurisdiction": "state",
     "name": "Republic of Kosovo",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

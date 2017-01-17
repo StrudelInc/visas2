@@ -3,7 +3,9 @@
     "cca3": "COD",
     "ccn3": "180",
     "csvc": "DEMO",
+    "jurisdiction": "state",
     "name": "Democratic Republic of the Congo",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

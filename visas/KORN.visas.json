@@ -3,7 +3,9 @@
     "cca3": "PRK",
     "ccn3": "408",
     "csvc": "KORN",
+    "jurisdiction": "state",
     "name": "North Korea",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

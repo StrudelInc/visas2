@@ -3,7 +3,9 @@
     "cca3": "LSO",
     "ccn3": "426",
     "csvc": "LESO",
+    "jurisdiction": "state",
     "name": "Lesotho",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

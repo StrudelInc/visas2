@@ -3,7 +3,9 @@
     "cca3": "CAN",
     "ccn3": "124",
     "csvc": "CANA",
+    "jurisdiction": "state",
     "name": "Canada",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

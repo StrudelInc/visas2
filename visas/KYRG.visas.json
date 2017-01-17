@@ -3,7 +3,9 @@
     "cca3": "KGZ",
     "ccn3": "417",
     "csvc": "KYRG",
+    "jurisdiction": "state",
     "name": "Kyrgyzstan",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

@@ -3,7 +3,9 @@
     "cca3": "",
     "ccn3": "",
     "csvc": "GUAD",
+    "jurisdiction": "state",
     "name": "Guadeloupe",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

@@ -3,7 +3,9 @@
     "cca3": "HUN",
     "ccn3": "348",
     "csvc": "HUNG",
+    "jurisdiction": "state",
     "name": "Hungary",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

@@ -3,7 +3,9 @@
     "cca3": "SDN",
     "ccn3": "729",
     "csvc": "SUDA",
+    "jurisdiction": "state",
     "name": "Sudan",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

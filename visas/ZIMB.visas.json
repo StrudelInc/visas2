@@ -3,7 +3,9 @@
     "cca3": "ZWE",
     "ccn3": "716",
     "csvc": "ZIMB",
+    "jurisdiction": "state",
     "name": "Zimbabwe",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

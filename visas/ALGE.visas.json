@@ -3,7 +3,9 @@
     "cca3": "DZA",
     "ccn3": "012",
     "csvc": "ALGE",
+    "jurisdiction": "state",
     "name": "Algeria",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

@@ -3,7 +3,9 @@
     "cca3": "ISR",
     "ccn3": "376",
     "csvc": "ISRA",
+    "jurisdiction": "state",
     "name": "Israel",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

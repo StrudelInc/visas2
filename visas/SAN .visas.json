@@ -3,7 +3,9 @@
     "cca3": "SMR",
     "ccn3": "674",
     "csvc": "SAN ",
+    "jurisdiction": "state",
     "name": "San Marino",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

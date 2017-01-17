@@ -3,7 +3,9 @@
     "cca3": "ESP",
     "ccn3": "724",
     "csvc": "ESPA",
+    "jurisdiction": "state",
     "name": "Spain",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

@@ -3,7 +3,9 @@
     "cca3": "GIN",
     "ccn3": "324",
     "csvc": "GUIN",
+    "jurisdiction": "state",
     "name": "Guinea",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

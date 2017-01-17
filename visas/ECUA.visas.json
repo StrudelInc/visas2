@@ -3,7 +3,9 @@
     "cca3": "ECU",
     "ccn3": "218",
     "csvc": "ECUA",
+    "jurisdiction": "state",
     "name": "Ecuador",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

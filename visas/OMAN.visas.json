@@ -3,7 +3,9 @@
     "cca3": "OMN",
     "ccn3": "512",
     "csvc": "OMAN",
+    "jurisdiction": "state",
     "name": "Oman",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

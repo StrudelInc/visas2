@@ -3,7 +3,9 @@
     "cca3": "NCL",
     "ccn3": "540",
     "csvc": "NCLD",
+    "jurisdiction": "state",
     "name": "New Caledonia",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

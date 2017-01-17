@@ -3,7 +3,9 @@
     "cca3": "",
     "ccn3": "",
     "csvc": "TOKE",
+    "jurisdiction": "state",
     "name": "Tokelau",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

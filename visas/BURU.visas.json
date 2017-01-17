@@ -3,7 +3,9 @@
     "cca3": "BDI",
     "ccn3": "108",
     "csvc": "BURU",
+    "jurisdiction": "state",
     "name": "Burundi",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

@@ -3,7 +3,9 @@
     "cca3": "BOL",
     "ccn3": "068",
     "csvc": "BOLI",
+    "jurisdiction": "state",
     "name": "Bolivia",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

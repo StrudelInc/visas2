@@ -3,7 +3,9 @@
     "cca3": "COK",
     "ccn3": "184",
     "csvc": "COOK",
+    "jurisdiction": "state",
     "name": "Cook Islands",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

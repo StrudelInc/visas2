@@ -3,7 +3,9 @@
     "cca3": "NZL",
     "ccn3": "554",
     "csvc": "NZLD",
+    "jurisdiction": "state",
     "name": "New Zealand",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

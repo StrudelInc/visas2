@@ -3,7 +3,9 @@
     "cca3": "GHA",
     "ccn3": "288",
     "csvc": "GHAN",
+    "jurisdiction": "state",
     "name": "Ghana",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

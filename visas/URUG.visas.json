@@ -3,7 +3,9 @@
     "cca3": "URY",
     "ccn3": "858",
     "csvc": "URUG",
+    "jurisdiction": "state",
     "name": "Uruguay",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

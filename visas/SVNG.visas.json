@@ -3,7 +3,9 @@
     "cca3": "VCT",
     "ccn3": "670",
     "csvc": "SVNG",
+    "jurisdiction": "state",
     "name": "Saint Vincent and the Grenadines",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

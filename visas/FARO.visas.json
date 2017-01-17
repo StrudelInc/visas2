@@ -3,7 +3,9 @@
     "cca3": "",
     "ccn3": "",
     "csvc": "FARO",
+    "jurisdiction": "state",
     "name": "Faroe Islands",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

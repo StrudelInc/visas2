@@ -3,7 +3,9 @@
     "cca3": "CZE",
     "ccn3": "203",
     "csvc": "CZEC",
+    "jurisdiction": "state",
     "name": "Czech Republic",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

@@ -3,7 +3,9 @@
     "cca3": "GAB",
     "ccn3": "266",
     "csvc": "GABO",
+    "jurisdiction": "state",
     "name": "Gabon",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

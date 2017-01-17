@@ -3,7 +3,9 @@
     "cca3": "",
     "ccn3": "",
     "csvc": "JERS",
+    "jurisdiction": "state",
     "name": "Jersey",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

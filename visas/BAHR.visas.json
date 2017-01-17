@@ -3,7 +3,9 @@
     "cca3": "BHR",
     "ccn3": "048",
     "csvc": "BAHR",
+    "jurisdiction": "state",
     "name": "Bahrain",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

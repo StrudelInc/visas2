@@ -3,7 +3,9 @@
     "cca3": "FJI",
     "ccn3": "242",
     "csvc": "FIJI",
+    "jurisdiction": "state",
     "name": "Fiji",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

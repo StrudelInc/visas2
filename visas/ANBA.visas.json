@@ -3,7 +3,9 @@
     "cca3": "ATG",
     "ccn3": "028",
     "csvc": "ANBA",
+    "jurisdiction": "state",
     "name": "Antigua and Barbuda",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

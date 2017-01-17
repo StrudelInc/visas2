@@ -3,7 +3,9 @@
     "cca3": "ISL",
     "ccn3": "352",
     "csvc": "ICEL",
+    "jurisdiction": "state",
     "name": "Iceland",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

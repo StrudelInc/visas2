@@ -3,7 +3,9 @@
     "cca3": "LAO",
     "ccn3": "418",
     "csvc": "LAOS",
+    "jurisdiction": "state",
     "name": "Laos",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

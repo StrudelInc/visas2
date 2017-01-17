@@ -3,7 +3,9 @@
     "cca3": "MLI",
     "ccn3": "466",
     "csvc": "MALI",
+    "jurisdiction": "state",
     "name": "Mali",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

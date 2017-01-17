@@ -3,7 +3,9 @@
     "cca3": "ROU",
     "ccn3": "642",
     "csvc": "ROMA",
+    "jurisdiction": "state",
     "name": "Romania",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

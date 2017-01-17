@@ -3,7 +3,9 @@
     "cca3": "MOZ",
     "ccn3": "508",
     "csvc": "MOZA",
+    "jurisdiction": "state",
     "name": "Mozambique",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

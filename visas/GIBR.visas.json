@@ -3,7 +3,9 @@
     "cca3": "GIB",
     "ccn3": "292",
     "csvc": "GIBR",
+    "jurisdiction": "state",
     "name": "Gibraltar",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

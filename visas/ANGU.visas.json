@@ -3,7 +3,9 @@
     "cca3": "AIA",
     "ccn3": "660",
     "csvc": "ANGU",
+    "jurisdiction": "state",
     "name": "Anguilla",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

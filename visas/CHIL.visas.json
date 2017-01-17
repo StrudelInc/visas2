@@ -3,7 +3,9 @@
     "cca3": "CHL",
     "ccn3": "152",
     "csvc": "CHIL",
+    "jurisdiction": "state",
     "name": "Chile",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

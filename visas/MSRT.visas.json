@@ -3,7 +3,9 @@
     "cca3": "MSR",
     "ccn3": "500",
     "csvc": "MSRT",
+    "jurisdiction": "state",
     "name": "Montserrat",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

@@ -3,7 +3,9 @@
     "cca3": "",
     "ccn3": "",
     "csvc": "WLSF",
+    "jurisdiction": "state",
     "name": "Wallis and Futuna",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

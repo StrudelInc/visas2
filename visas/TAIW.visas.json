@@ -3,7 +3,9 @@
     "cca3": "TWN",
     "ccn3": "158",
     "csvc": "TAIW",
+    "jurisdiction": "state",
     "name": "Taiwan",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

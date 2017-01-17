@@ -3,7 +3,9 @@
     "cca3": "NGA",
     "ccn3": "566",
     "csvc": "NIGE",
+    "jurisdiction": "state",
     "name": "Nigeria",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

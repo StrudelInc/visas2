@@ -3,7 +3,9 @@
     "cca3": "NRU",
     "ccn3": "520",
     "csvc": "NAUR",
+    "jurisdiction": "state",
     "name": "Nauru",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

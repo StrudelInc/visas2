@@ -3,7 +3,9 @@
     "cca3": "SAU",
     "ccn3": "682",
     "csvc": "SAUD",
+    "jurisdiction": "state",
     "name": "Saudi Arabia",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

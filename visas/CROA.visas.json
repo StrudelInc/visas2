@@ -3,7 +3,9 @@
     "cca3": "HRV",
     "ccn3": "191",
     "csvc": "CROA",
+    "jurisdiction": "state",
     "name": "Croatia",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

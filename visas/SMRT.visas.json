@@ -3,7 +3,9 @@
     "cca3": "",
     "ccn3": "",
     "csvc": "SMRT",
+    "jurisdiction": "state",
     "name": "Saint Martin",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

@@ -3,7 +3,9 @@
     "cca3": "TUN",
     "ccn3": "788",
     "csvc": "TUNI",
+    "jurisdiction": "state",
     "name": "Tunisia",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

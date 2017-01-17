@@ -3,7 +3,9 @@
     "cca3": "DEU",
     "ccn3": "276",
     "csvc": "DEUT",
+    "jurisdiction": "state",
     "name": "Germany",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

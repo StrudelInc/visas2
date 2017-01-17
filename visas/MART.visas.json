@@ -3,7 +3,9 @@
     "cca3": "",
     "ccn3": "",
     "csvc": "MART",
+    "jurisdiction": "state",
     "name": "Martinique",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

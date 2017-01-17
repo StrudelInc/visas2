@@ -3,7 +3,9 @@
     "cca3": "TUV",
     "ccn3": "798",
     "csvc": "TUVA",
+    "jurisdiction": "state",
     "name": "Tuvalu",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

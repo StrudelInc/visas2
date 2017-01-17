@@ -3,7 +3,9 @@
     "cca3": "LBR",
     "ccn3": "430",
     "csvc": "LIBE",
+    "jurisdiction": "state",
     "name": "Liberia",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

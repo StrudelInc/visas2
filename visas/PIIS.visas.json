@@ -3,7 +3,9 @@
     "cca3": "",
     "ccn3": "",
     "csvc": "PIIS",
+    "jurisdiction": "state",
     "name": "Pitcairn Islands",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

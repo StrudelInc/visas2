@@ -3,7 +3,9 @@
     "cca3": "NAM",
     "ccn3": "516",
     "csvc": "NAMI",
+    "jurisdiction": "state",
     "name": "Namibia",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

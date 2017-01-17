@@ -3,7 +3,9 @@
     "cca3": "MRT",
     "ccn3": "478",
     "csvc": "MAUR",
+    "jurisdiction": "state",
     "name": "Mauritania",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

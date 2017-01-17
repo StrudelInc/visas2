@@ -3,7 +3,9 @@
     "cca3": "AZE",
     "ccn3": "031",
     "csvc": "AZER",
+    "jurisdiction": "state",
     "name": "Azerbaijan",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

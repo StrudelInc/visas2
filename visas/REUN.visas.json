@@ -3,7 +3,9 @@
     "cca3": "REU",
     "ccn3": "638",
     "csvc": "REUN",
+    "jurisdiction": "state",
     "name": "R\u00e9union",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

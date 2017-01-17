@@ -3,7 +3,9 @@
     "cca3": "WSM",
     "ccn3": "882",
     "csvc": "SAMO",
+    "jurisdiction": "state",
     "name": "Samoa",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

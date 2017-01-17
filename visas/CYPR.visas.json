@@ -3,7 +3,9 @@
     "cca3": "CYP",
     "ccn3": "196",
     "csvc": "CYPR",
+    "jurisdiction": "state",
     "name": "Cyprus",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

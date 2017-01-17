@@ -3,7 +3,9 @@
     "cca3": "AGO",
     "ccn3": "024",
     "csvc": "ANGO",
+    "jurisdiction": "state",
     "name": "Angola",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

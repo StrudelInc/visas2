@@ -3,7 +3,9 @@
     "cca3": "SVN",
     "ccn3": "705",
     "csvc": "SLOV",
+    "jurisdiction": "state",
     "name": "Slovenia",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

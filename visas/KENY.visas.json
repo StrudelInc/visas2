@@ -3,7 +3,9 @@
     "cca3": "KEN",
     "ccn3": "404",
     "csvc": "KENY",
+    "jurisdiction": "state",
     "name": "Kenya",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

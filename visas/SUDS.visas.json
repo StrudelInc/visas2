@@ -3,7 +3,9 @@
     "cca3": "SSD",
     "ccn3": "728",
     "csvc": "SUDS",
+    "jurisdiction": "state",
     "name": "South Sudan",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

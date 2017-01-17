@@ -3,7 +3,9 @@
     "cca3": "KWT",
     "ccn3": "414",
     "csvc": "KUWA",
+    "jurisdiction": "state",
     "name": "Kuwait",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

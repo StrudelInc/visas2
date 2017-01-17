@@ -3,7 +3,9 @@
     "cca3": "MCO",
     "ccn3": "492",
     "csvc": "MONA",
+    "jurisdiction": "state",
     "name": "Monaco",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

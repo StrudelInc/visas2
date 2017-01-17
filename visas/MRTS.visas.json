@@ -3,7 +3,9 @@
     "cca3": "MUS",
     "ccn3": "480",
     "csvc": "MRTS",
+    "jurisdiction": "state",
     "name": "Mauritius",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

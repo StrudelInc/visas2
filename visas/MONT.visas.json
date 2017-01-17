@@ -3,7 +3,9 @@
     "cca3": "MNE",
     "ccn3": "499",
     "csvc": "MONT",
+    "jurisdiction": "state",
     "name": "Montenegro",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

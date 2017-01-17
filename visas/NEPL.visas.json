@@ -3,7 +3,9 @@
     "cca3": "NPL",
     "ccn3": "524",
     "csvc": "NEPL",
+    "jurisdiction": "state",
     "name": "Nepal",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

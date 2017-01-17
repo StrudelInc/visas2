@@ -3,7 +3,9 @@
     "cca3": "UKR",
     "ccn3": "804",
     "csvc": "UKRA",
+    "jurisdiction": "state",
     "name": "Ukraine",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

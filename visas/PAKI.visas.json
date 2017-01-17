@@ -3,7 +3,9 @@
     "cca3": "PAK",
     "ccn3": "586",
     "csvc": "PAKI",
+    "jurisdiction": "state",
     "name": "Pakistan",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

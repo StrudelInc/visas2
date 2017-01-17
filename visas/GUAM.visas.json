@@ -3,7 +3,9 @@
     "cca3": "GUM",
     "ccn3": "316",
     "csvc": "GUAM",
+    "jurisdiction": "state",
     "name": "Guam",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

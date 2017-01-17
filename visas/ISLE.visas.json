@@ -3,7 +3,9 @@
     "cca3": "",
     "ccn3": "",
     "csvc": "ISLE",
+    "jurisdiction": "state",
     "name": "Isle of Man",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

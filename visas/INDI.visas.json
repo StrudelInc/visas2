@@ -3,7 +3,9 @@
     "cca3": "IND",
     "ccn3": "356",
     "csvc": "INDI",
+    "jurisdiction": "state",
     "name": "India",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

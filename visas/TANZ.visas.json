@@ -3,7 +3,9 @@
     "cca3": "TZA",
     "ccn3": "834",
     "csvc": "TANZ",
+    "jurisdiction": "state",
     "name": "Tanzania",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

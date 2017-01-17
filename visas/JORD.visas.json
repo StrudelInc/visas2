@@ -3,7 +3,9 @@
     "cca3": "JOR",
     "ccn3": "400",
     "csvc": "JORD",
+    "jurisdiction": "state",
     "name": "Jordan",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

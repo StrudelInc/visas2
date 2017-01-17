@@ -3,7 +3,9 @@
     "cca3": "AFG",
     "ccn3": "004",
     "csvc": "AFGH",
+    "jurisdiction": "state",
     "name": "Afghanistan",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

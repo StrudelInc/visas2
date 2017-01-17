@@ -3,7 +3,9 @@
     "cca3": "GBR",
     "ccn3": "826",
     "csvc": "UKBI",
+    "jurisdiction": "state",
     "name": "United Kingdom",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

@@ -3,7 +3,9 @@
     "cca3": "SUR",
     "ccn3": "740",
     "csvc": "SURI",
+    "jurisdiction": "state",
     "name": "Suriname",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

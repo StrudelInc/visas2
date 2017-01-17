@@ -3,7 +3,9 @@
     "cca3": "MNG",
     "ccn3": "496",
     "csvc": "MONG",
+    "jurisdiction": "state",
     "name": "Mongolia",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

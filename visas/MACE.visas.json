@@ -3,7 +3,9 @@
     "cca3": "MKD",
     "ccn3": "807",
     "csvc": "MACE",
+    "jurisdiction": "state",
     "name": "Macedonia",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

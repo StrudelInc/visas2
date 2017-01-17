@@ -3,7 +3,9 @@
     "cca3": "MYT",
     "ccn3": "175",
     "csvc": "MAYO",
+    "jurisdiction": "state",
     "name": "Mayotte",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

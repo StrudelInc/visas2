@@ -3,7 +3,9 @@
     "cca3": "",
     "ccn3": "",
     "csvc": "BART",
+    "jurisdiction": "state",
     "name": "Saint Barth\u00e9lemy",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

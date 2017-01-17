@@ -3,7 +3,9 @@
     "cca3": "KHM",
     "ccn3": "116",
     "csvc": "CAMB",
+    "jurisdiction": "state",
     "name": "Cambodia",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

@@ -3,7 +3,9 @@
     "cca3": "NOR",
     "ccn3": "578",
     "csvc": "NORW",
+    "jurisdiction": "state",
     "name": "Norway",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

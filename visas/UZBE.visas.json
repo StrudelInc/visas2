@@ -3,7 +3,9 @@
     "cca3": "UZB",
     "ccn3": "860",
     "csvc": "UZBE",
+    "jurisdiction": "state",
     "name": "Uzbekistan",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

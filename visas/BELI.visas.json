@@ -3,7 +3,9 @@
     "cca3": "BLZ",
     "ccn3": "084",
     "csvc": "BELI",
+    "jurisdiction": "state",
     "name": "Belize",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

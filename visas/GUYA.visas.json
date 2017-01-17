@@ -3,7 +3,9 @@
     "cca3": "GUY",
     "ccn3": "328",
     "csvc": "GUYA",
+    "jurisdiction": "state",
     "name": "Guyana",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

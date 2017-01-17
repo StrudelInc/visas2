@@ -3,7 +3,9 @@
     "cca3": "HND",
     "ccn3": "340",
     "csvc": "HOND",
+    "jurisdiction": "state",
     "name": "Honduras",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

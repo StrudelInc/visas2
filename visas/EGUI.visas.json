@@ -3,7 +3,9 @@
     "cca3": "GNQ",
     "ccn3": "226",
     "csvc": "EGUI",
+    "jurisdiction": "state",
     "name": "Equatorial Guinea",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

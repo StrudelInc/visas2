@@ -3,7 +3,9 @@
     "cca3": "TCD",
     "ccn3": "148",
     "csvc": "CHAD",
+    "jurisdiction": "state",
     "name": "Chad",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

@@ -3,7 +3,9 @@
     "cca3": "HKG",
     "ccn3": "344",
     "csvc": "HKGK",
+    "jurisdiction": "state",
     "name": "Hong Kong",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

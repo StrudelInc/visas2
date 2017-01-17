@@ -3,7 +3,9 @@
     "cca3": "SOM",
     "ccn3": "706",
     "csvc": "SOMA",
+    "jurisdiction": "state",
     "name": "Somalia",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

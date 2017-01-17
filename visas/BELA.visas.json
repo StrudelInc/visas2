@@ -3,7 +3,9 @@
     "cca3": "BLR",
     "ccn3": "112",
     "csvc": "BELA",
+    "jurisdiction": "state",
     "name": "Belarus",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

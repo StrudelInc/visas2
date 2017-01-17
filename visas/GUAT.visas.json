@@ -3,7 +3,9 @@
     "cca3": "GTM",
     "ccn3": "320",
     "csvc": "GUAT",
+    "jurisdiction": "state",
     "name": "Guatemala",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

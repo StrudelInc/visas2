@@ -3,7 +3,9 @@
     "cca3": "BMU",
     "ccn3": "060",
     "csvc": "BERM",
+    "jurisdiction": "state",
     "name": "Bermuda",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

@@ -3,7 +3,9 @@
     "cca3": "NIC",
     "ccn3": "558",
     "csvc": "NICA",
+    "jurisdiction": "state",
     "name": "Nicaragua",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

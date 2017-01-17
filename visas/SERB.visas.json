@@ -3,7 +3,9 @@
     "cca3": "SRB",
     "ccn3": "688",
     "csvc": "SERB",
+    "jurisdiction": "state",
     "name": "Serbia",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

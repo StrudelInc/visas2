@@ -3,7 +3,9 @@
     "cca3": "CAF",
     "ccn3": "140",
     "csvc": "CAFR",
+    "jurisdiction": "state",
     "name": "Central African Republic",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

@@ -3,7 +3,9 @@
     "cca3": "GMB",
     "ccn3": "270",
     "csvc": "GAMB",
+    "jurisdiction": "state",
     "name": "Gambia",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

@@ -3,7 +3,9 @@
     "cca3": "MAR",
     "ccn3": "504",
     "csvc": "MORO",
+    "jurisdiction": "state",
     "name": "Morocco",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

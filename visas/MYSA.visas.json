@@ -3,7 +3,9 @@
     "cca3": "MYS",
     "ccn3": "458",
     "csvc": "MYSA",
+    "jurisdiction": "state",
     "name": "Malaysia",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

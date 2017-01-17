@@ -3,7 +3,9 @@
     "cca3": "AUS",
     "ccn3": "036",
     "csvc": "AUST",
+    "jurisdiction": "state",
     "name": "Australia",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

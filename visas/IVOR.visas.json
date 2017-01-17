@@ -3,7 +3,9 @@
     "cca3": "CIV",
     "ccn3": "384",
     "csvc": "IVOR",
+    "jurisdiction": "state",
     "name": "Ivory Coast",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

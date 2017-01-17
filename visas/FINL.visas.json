@@ -3,7 +3,9 @@
     "cca3": "FIN",
     "ccn3": "246",
     "csvc": "FINL",
+    "jurisdiction": "state",
     "name": "Finland",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

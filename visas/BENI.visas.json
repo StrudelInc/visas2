@@ -3,7 +3,9 @@
     "cca3": "BEN",
     "ccn3": "204",
     "csvc": "BENI",
+    "jurisdiction": "state",
     "name": "Benin",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

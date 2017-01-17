@@ -3,7 +3,9 @@
     "cca3": "NLD",
     "ccn3": "528",
     "csvc": "NETH",
+    "jurisdiction": "state",
     "name": "Netherlands",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

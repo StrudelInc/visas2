@@ -3,7 +3,9 @@
     "cca3": "NIU",
     "ccn3": "570",
     "csvc": "NIUE",
+    "jurisdiction": "state",
     "name": "Niue",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

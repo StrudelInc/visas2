@@ -3,7 +3,9 @@
     "cca3": "GNB",
     "ccn3": "624",
     "csvc": "GUIB",
+    "jurisdiction": "state",
     "name": "Guinea-Bissau",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

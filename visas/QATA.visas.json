@@ -3,7 +3,9 @@
     "cca3": "QAT",
     "ccn3": "634",
     "csvc": "QATA",
+    "jurisdiction": "state",
     "name": "Qatar",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

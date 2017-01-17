@@ -3,7 +3,9 @@
     "cca3": "VEN",
     "ccn3": "862",
     "csvc": "VENE",
+    "jurisdiction": "state",
     "name": "Venezuela",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

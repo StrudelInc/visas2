@@ -3,7 +3,9 @@
     "cca3": "PAN",
     "ccn3": "591",
     "csvc": "PANA",
+    "jurisdiction": "state",
     "name": "Panama",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

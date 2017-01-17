@@ -3,7 +3,9 @@
     "cca3": "IDN",
     "ccn3": "360",
     "csvc": "INDO",
+    "jurisdiction": "state",
     "name": "Indonesia",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

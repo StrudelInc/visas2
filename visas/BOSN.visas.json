@@ -3,7 +3,9 @@
     "cca3": "BIH",
     "ccn3": "070",
     "csvc": "BOSN",
+    "jurisdiction": "state",
     "name": "Bosnia and Herzegovina",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

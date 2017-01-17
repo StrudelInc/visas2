@@ -3,7 +3,9 @@
     "cca3": "DMA",
     "ccn3": "212",
     "csvc": "DOMI",
+    "jurisdiction": "state",
     "name": "Dominica",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

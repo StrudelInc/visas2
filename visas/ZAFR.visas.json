@@ -3,7 +3,9 @@
     "cca3": "ZAF",
     "ccn3": "710",
     "csvc": "ZAFR",
+    "jurisdiction": "state",
     "name": "South Africa",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

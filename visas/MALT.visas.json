@@ -3,7 +3,9 @@
     "cca3": "MLT",
     "ccn3": "470",
     "csvc": "MALT",
+    "jurisdiction": "state",
     "name": "Malta",
+    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],
