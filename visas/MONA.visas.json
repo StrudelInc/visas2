@@ -6,1259 +6,2514 @@
     "name": "Monaco",
     "requirements": {
         "ABKH": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "free"
+            "permission": "free",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "AFGH": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "AHVE": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "ALBA": {
+            "conflict": [],
             "note": "",
-            "time": "1 Month(s)",
-            "type": "free"
+            "permission": "free",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "1 Month(s)"
         },
         "ALGE": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "AMSA": {
+            "conflict": [],
             "note": "",
-            "time": "30 Day(s)",
-            "type": "free"
+            "permission": "free",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "30 Day(s)"
         },
         "ANBA": {
+            "conflict": [],
             "note": "",
-            "time": "1 Month(s)",
-            "type": "free"
+            "permission": "free",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "1 Month(s)"
         },
         "ANDO": {
+            "conflict": [],
             "note": "Schengen Agreement",
-            "time": "",
-            "type": "union"
+            "permission": "union",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "ANGO": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "ANGU": {
+            "conflict": [],
             "note": "",
-            "time": "3 Month(s)",
-            "type": "free"
+            "permission": "free",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "3 Month(s)"
         },
         "ANTA": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "ARGE": {
+            "conflict": [],
             "note": "",
-            "time": "3 Month(s)",
-            "type": "free"
+            "permission": "free",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "3 Month(s)"
         },
         "ARME": {
+            "conflict": [],
             "note": "",
-            "time": "120 Day(s)",
-            "type": "arrival"
+            "permission": "arrival",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "120 Day(s)"
         },
         "ARUB": {
+            "conflict": [],
             "note": "",
-            "time": "30 Day(s)",
-            "type": "free"
+            "permission": "free",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "30 Day(s)"
         },
         "AUST": {
+            "conflict": [],
             "note": "Electronic Travel Authority",
-            "time": "90 Day(s)",
-            "type": "electronic"
+            "permission": "electronic",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "90 Day(s)"
         },
         "AZER": {
+            "conflict": [],
             "note": "",
-            "time": "30 Day(s)",
-            "type": "arrival"
+            "permission": "arrival",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "30 Day(s)"
         },
         "BAHA": {
+            "conflict": [],
             "note": "",
-            "time": "3 Month(s)",
-            "type": "free"
+            "permission": "free",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "3 Month(s)"
         },
         "BAHR": {
+            "conflict": [],
             "note": "",
-            "time": "14 Day(s)",
-            "type": "arrival"
+            "permission": "arrival",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "14 Day(s)"
         },
         "BANG": {
+            "conflict": [],
             "note": "",
-            "time": "90 Day(s)",
-            "type": "arrival"
+            "permission": "arrival",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "90 Day(s)"
         },
         "BARB": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "BART": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "BELA": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "arrival"
+            "permission": "arrival",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "BELG": {
+            "conflict": [],
             "note": "Schengen Agreement",
-            "time": "",
-            "type": "union"
+            "permission": "union",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "BELI": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "BENI": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "BERM": {
+            "conflict": [],
             "note": "",
-            "time": "6 Month(s)",
-            "type": "free"
+            "permission": "free",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "6 Month(s)"
         },
         "BHUT": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "BIOT": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "BOLI": {
+            "conflict": [],
             "note": "",
-            "time": "30 Day(s)",
-            "type": "free"
+            "permission": "free",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "30 Day(s)"
         },
         "BOSN": {
+            "conflict": [],
             "note": "",
-            "time": "90 Day(s)",
-            "type": "free"
+            "permission": "free",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "90 Day(s)"
         },
         "BOTS": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "BOUV": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "BRAZ": {
+            "conflict": [],
             "note": "",
-            "time": "90 Day(s)",
-            "type": "free"
+            "permission": "free",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "90 Day(s)"
         },
         "BRIV": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "free"
+            "permission": "free",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "BRUN": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "BULG": {
+            "conflict": [],
             "note": "Schengen Agreement",
-            "time": "",
-            "type": "union"
+            "permission": "union",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "BURK": {
+            "conflict": [],
             "note": "Not required in extreme cases.",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "BURU": {
+            "conflict": [],
             "note": "Visa on arrival possible if there is no diplomatic representative of burundi located in country of origin.",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "CAMB": {
+            "conflict": [],
             "note": "",
-            "time": "30 Day(s)",
-            "type": "arrival"
+            "permission": "arrival",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "30 Day(s)"
         },
         "CAME": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "CANA": {
+            "conflict": [],
             "note": "",
-            "time": "6 Month(s)",
-            "type": "free"
+            "permission": "free",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "6 Month(s)"
         },
         "CAPE": {
+            "conflict": [],
             "note": "Not required for former nationals of cape verde islands. Visa on arrival for those coming from countries where no diplomatic re",
-            "time": "",
-            "type": "required"
-        },
-        "CARI": {
-            "note": "",
-            "time": "",
-            "type": "required"
-        },
-        "CAYM": {
-            "note": "",
-            "time": "30 Day(s)",
-            "type": "free"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "CARF": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
+        },
+        "CARI": {
+            "conflict": [],
+            "note": "",
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
+        },
+        "CAYM": {
+            "conflict": [],
+            "note": "",
+            "permission": "free",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "30 Day(s)"
         },
         "CHAD": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "CHIL": {
+            "conflict": [],
             "note": "",
-            "time": "90 Day(s)",
-            "type": "free"
+            "permission": "free",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "90 Day(s)"
         },
         "CHIN": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "CHRI": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "CLMB": {
+            "conflict": [],
             "note": "",
-            "time": "90 Day(s)",
-            "type": "free"
+            "permission": "free",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "90 Day(s)"
         },
         "COCO": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "COMO": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "arrival"
+            "permission": "arrival",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "CONG": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "COOK": {
+            "conflict": [],
             "note": "",
-            "time": "31 Day(s)",
-            "type": "free"
+            "permission": "free",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "31 Day(s)"
         },
         "COST": {
+            "conflict": [],
             "note": "",
-            "time": "90 Day(s)",
-            "type": "free"
+            "permission": "free",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "90 Day(s)"
         },
         "CROA": {
+            "conflict": [],
             "note": "Schengen Agreement",
-            "time": "",
-            "type": "union"
+            "permission": "union",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "CUBA": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "CURA": {
+            "conflict": [],
             "note": "",
-            "time": "3 Month(s)",
-            "type": "free"
+            "permission": "free",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "3 Month(s)"
         },
         "CYPR": {
+            "conflict": [],
             "note": "Schengen Agreement",
-            "time": "",
-            "type": "union"
+            "permission": "union",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "CZEC": {
+            "conflict": [],
             "note": "Schengen Agreement",
-            "time": "",
-            "type": "union"
+            "permission": "union",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "DEMO": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "DENM": {
+            "conflict": [],
             "note": "Schengen Agreement",
-            "time": "",
-            "type": "union"
+            "permission": "union",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "DEUT": {
+            "conflict": [],
             "note": "Schengen Agreement",
-            "time": "",
-            "type": "union"
+            "permission": "union",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "DJIB": {
+            "conflict": [],
             "note": "",
-            "time": "1 Month(s)",
-            "type": "arrival"
+            "permission": "arrival",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "1 Month(s)"
         },
         "DOMI": {
+            "conflict": [],
             "note": "",
-            "time": "21 Day(s)",
-            "type": "free"
+            "permission": "free",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "21 Day(s)"
         },
         "DOMR": {
+            "conflict": [],
             "note": "",
-            "time": "30 Day(s)",
-            "type": "arrival"
+            "permission": "arrival",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "30 Day(s)"
         },
         "ECUA": {
+            "conflict": [],
             "note": "",
-            "time": "90 Day(s)",
-            "type": "free"
+            "permission": "free",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "90 Day(s)"
         },
         "EGUI": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "EGYP": {
+            "conflict": [],
             "note": "",
-            "time": "15 Day(s)",
-            "type": "arrival"
+            "permission": "arrival",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "15 Day(s)"
         },
         "ERIT": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "ESPA": {
+            "conflict": [],
             "note": "Schengen Agreement",
-            "time": "",
-            "type": "union"
+            "permission": "union",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "ESTO": {
+            "conflict": [],
             "note": "Schengen Agreement",
-            "time": "",
-            "type": "union"
+            "permission": "union",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "ETHI": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "FALK": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "FARO": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "FGUI": {
+            "conflict": [],
             "note": "",
-            "time": "3 Month(s)",
-            "type": "free"
+            "permission": "free",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "3 Month(s)"
         },
         "FIJI": {
+            "conflict": [],
             "note": "",
-            "time": "4 Month(s)",
-            "type": "free"
+            "permission": "free",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "4 Month(s)"
         },
         "FINL": {
+            "conflict": [],
             "note": "Schengen Agreement",
-            "time": "",
-            "type": "union"
+            "permission": "union",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "FRAN": {
+            "conflict": [],
             "note": "Schengen Agreement",
-            "time": "",
-            "type": "union"
+            "permission": "union",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "FSAL": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "GABO": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "GAMB": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "GEOR": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "arrival"
+            "permission": "arrival",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "GHAN": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "GIBR": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "free"
+            "permission": "free",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "GRCE": {
+            "conflict": [],
             "note": "Schengen Agreement",
-            "time": "",
-            "type": "union"
+            "permission": "union",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "GREE": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "GREN": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "GRGS": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "GUAD": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "GUAM": {
+            "conflict": [],
             "note": "",
-            "time": "90 Day(s)",
-            "type": "free"
+            "permission": "free",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "90 Day(s)"
         },
         "GUAT": {
+            "conflict": [],
             "note": "",
-            "time": "90 Day(s)",
-            "type": "free"
+            "permission": "free",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "90 Day(s)"
         },
         "GUER": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "GUIB": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "GUIN": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "GUYA": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "HAIT": {
+            "conflict": [],
             "note": "",
-            "time": "3 Month(s)",
-            "type": "free"
+            "permission": "free",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "3 Month(s)"
         },
         "HATC": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "HIMI": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "HKGK": {
+            "conflict": [],
             "note": "",
-            "time": "3 Month(s)",
-            "type": "free"
+            "permission": "free",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "3 Month(s)"
         },
         "HOND": {
+            "conflict": [],
             "note": "",
-            "time": "3 Month(s)",
-            "type": "free"
+            "permission": "free",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "3 Month(s)"
         },
         "HUNG": {
+            "conflict": [],
             "note": "Schengen Agreement",
-            "time": "",
-            "type": "union"
+            "permission": "union",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "ICEL": {
+            "conflict": [],
             "note": "Schengen Agreement",
-            "time": "",
-            "type": "union"
+            "permission": "union",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "INDI": {
+            "conflict": [],
             "note": "Except for those holding a PIO card (Person of Indian Origin).",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "INDO": {
+            "conflict": [],
             "note": "",
-            "time": "30 Day(s)",
-            "type": "arrival"
+            "permission": "arrival",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "30 Day(s)"
         },
         "IRAN": {
+            "conflict": [],
             "note": "Need a pre-approval code obtained at www. mfa. gov. ir.",
-            "time": "15 Day(s)",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "15 Day(s)"
         },
         "IRAQ": {
+            "conflict": [],
             "note": "Only available at Erbil international airport.",
-            "time": "",
-            "type": "arrival"
+            "permission": "arrival",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "IRLE": {
+            "conflict": [],
             "note": "Schengen Agreement",
-            "time": "",
-            "type": "union"
+            "permission": "union",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "ISLE": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "ISRA": {
+            "conflict": [],
             "note": "",
-            "time": "3 Month(s)",
-            "type": "free"
+            "permission": "free",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "3 Month(s)"
         },
         "ITAL": {
+            "conflict": [],
             "note": "Schengen Agreement",
-            "time": "",
-            "type": "union"
+            "permission": "union",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "IVOR": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "JAMC": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "arrival"
+            "permission": "arrival",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "JAPA": {
+            "conflict": [],
             "note": "",
-            "time": "90 Day(s)",
-            "type": "free"
+            "permission": "free",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "90 Day(s)"
         },
         "JERS": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "JORD": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "arrival"
+            "permission": "arrival",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "KAZA": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "KENY": {
+            "conflict": [],
             "note": "",
-            "time": "3 Month(s)",
-            "type": "arrival"
+            "permission": "arrival",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "3 Month(s)"
         },
         "KIRI": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "KORN": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "KORR": {
+            "conflict": [],
             "note": "",
-            "time": "30 Day(s)",
-            "type": "free"
+            "permission": "free",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "30 Day(s)"
         },
         "KSVO": {
+            "conflict": [],
             "note": "",
-            "time": "90 Day(s)",
-            "type": "free"
+            "permission": "free",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "90 Day(s)"
         },
         "KUWA": {
+            "conflict": [],
             "note": "",
-            "time": "3 Month(s)",
-            "type": "arrival"
+            "permission": "arrival",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "3 Month(s)"
         },
         "KYRG": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "LAOS": {
+            "conflict": [],
             "note": "",
-            "time": "30 Day(s)",
-            "type": "arrival"
+            "permission": "arrival",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "30 Day(s)"
         },
         "LATV": {
+            "conflict": [],
             "note": "Schengen Agreement",
-            "time": "",
-            "type": "union"
+            "permission": "union",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "LCAS": {
+            "conflict": [],
             "note": "",
-            "time": "6 Week(s)",
-            "type": "free"
+            "permission": "free",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "6 Week(s)"
         },
         "LEBA": {
+            "conflict": [],
             "note": "",
-            "time": "3 Month(s)",
-            "type": "arrival"
+            "permission": "arrival",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "3 Month(s)"
         },
         "LESO": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "LIBE": {
+            "conflict": [],
             "note": "Visa exemption if coming from country without diplomatic representation of Liberia.",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "LIBY": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "LIEC": {
+            "conflict": [],
             "note": "Schengen Agreement",
-            "time": "",
-            "type": "union"
+            "permission": "union",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "LITH": {
+            "conflict": [],
             "note": "Schengen Agreement",
-            "time": "",
-            "type": "union"
+            "permission": "union",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "LUXE": {
+            "conflict": [],
             "note": "Schengen Agreement",
-            "time": "",
-            "type": "union"
+            "permission": "union",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "MAAS": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "MACA": {
+            "conflict": [],
             "note": "",
-            "time": "30 Day(s)",
-            "type": "free"
+            "permission": "free",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "30 Day(s)"
         },
         "MACE": {
+            "conflict": [],
             "note": "",
-            "time": "90 Day(s)",
-            "type": "free"
+            "permission": "free",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "90 Day(s)"
         },
         "MALA": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "MALD": {
+            "conflict": [],
             "note": "",
-            "time": "30 Day(s)",
-            "type": "arrival"
+            "permission": "arrival",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "30 Day(s)"
         },
         "MALI": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "MALT": {
+            "conflict": [],
             "note": "Schengen Agreement",
-            "time": "",
-            "type": "union"
+            "permission": "union",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "MART": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "MAUR": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "MAYO": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "MDGS": {
+            "conflict": [],
             "note": "",
-            "time": "90 Day(s)",
-            "type": "arrival"
+            "permission": "arrival",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "90 Day(s)"
         },
         "MEXI": {
+            "conflict": [],
             "note": "",
-            "time": "180 Day(s)",
-            "type": "free"
+            "permission": "free",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "180 Day(s)"
         },
         "MICR": {
+            "conflict": [],
             "note": "",
-            "time": "30 Day(s)",
-            "type": "free"
+            "permission": "free",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "30 Day(s)"
         },
         "MOLD": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "MONG": {
+            "conflict": [],
             "note": "Visa on arrival if arriving from countries where there is no diplomatic representation of Mongolia.",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "MONT": {
+            "conflict": [],
             "note": "",
-            "time": "90 Day(s)",
-            "type": "free"
+            "permission": "free",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "90 Day(s)"
         },
         "MORO": {
+            "conflict": [],
             "note": "",
-            "time": "3 Month(s)",
-            "type": "free"
+            "permission": "free",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "3 Month(s)"
         },
         "MOZA": {
+            "conflict": [],
             "note": "",
-            "time": "30 Day(s)",
-            "type": "arrival"
+            "permission": "arrival",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "30 Day(s)"
         },
         "MRSI": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "MRTS": {
+            "conflict": [],
             "note": "",
-            "time": "60 Day(s)",
-            "type": "free"
+            "permission": "free",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "60 Day(s)"
         },
         "MSRT": {
+            "conflict": [],
             "note": "",
-            "time": "3 Month(s)",
-            "type": "free"
+            "permission": "free",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "3 Month(s)"
         },
         "MYAN": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "MYSA": {
+            "conflict": [],
             "note": "",
-            "time": "1 Month(s)",
-            "type": "free"
+            "permission": "free",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "1 Month(s)"
         },
         "NAMI": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "NAUR": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "NCLD": {
+            "conflict": [],
             "note": "",
-            "time": "3 Month(s)",
-            "type": "free"
+            "permission": "free",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "3 Month(s)"
         },
         "NEPL": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "arrival"
+            "permission": "arrival",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "NERI": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "NETH": {
+            "conflict": [],
             "note": "Schengen Agreement",
-            "time": "",
-            "type": "union"
+            "permission": "union",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "NFKI": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "NICA": {
+            "conflict": [],
             "note": "",
-            "time": "90 Day(s)",
-            "type": "free"
+            "permission": "free",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "90 Day(s)"
         },
         "NIGE": {
+            "conflict": [],
             "note": "Except for former Nigeria Nationals.",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "NIUE": {
+            "conflict": [],
             "note": "",
-            "time": "30 Day(s)",
-            "type": "free"
+            "permission": "free",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "30 Day(s)"
         },
         "NOMI": {
+            "conflict": [],
             "note": "",
-            "time": "30 Day(s)",
-            "type": "free"
+            "permission": "free",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "30 Day(s)"
         },
         "NORW": {
+            "conflict": [],
             "note": "Schengen Agreement",
-            "time": "",
-            "type": "union"
+            "permission": "union",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "NZLD": {
+            "conflict": [],
             "note": "",
-            "time": "3 Month(s)",
-            "type": "free"
+            "permission": "free",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "3 Month(s)"
         },
         "OMAN": {
+            "conflict": [],
             "note": "",
-            "time": "1 Month(s)",
-            "type": "arrival"
+            "permission": "arrival",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "1 Month(s)"
         },
         "OSSS": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "free"
+            "permission": "free",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "OSTE": {
+            "conflict": [],
             "note": "Schengen Agreement",
-            "time": "",
-            "type": "union"
+            "permission": "union",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "PAKI": {
+            "conflict": [],
             "note": "Visa not needed if holding a Pakistan Origin Card (POC).",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "PALA": {
+            "conflict": [],
             "note": "",
-            "time": "30 Day(s)",
-            "type": "arrival"
+            "permission": "arrival",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "30 Day(s)"
         },
         "PALE": {
+            "conflict": [],
             "note": "Borders not controlled.",
-            "time": "",
-            "type": "declined"
+            "permission": "declined",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "PANA": {
+            "conflict": [],
             "note": "",
-            "time": "30 Day(s)",
-            "type": "free"
+            "permission": "free",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "30 Day(s)"
         },
         "PERU": {
+            "conflict": [],
             "note": "",
-            "time": "90 Day(s)",
-            "type": "free"
+            "permission": "free",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "90 Day(s)"
         },
         "PHLP": {
+            "conflict": [],
             "note": "For more than 21 days up to 59 days, visa issued upon arrival.",
-            "time": "21 Day(s)",
-            "type": "free"
+            "permission": "free",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "21 Day(s)"
         },
         "PIIS": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "PNGU": {
+            "conflict": [],
             "note": "",
-            "time": "60 Day(s)",
-            "type": "arrival"
+            "permission": "arrival",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "60 Day(s)"
         },
         "POLA": {
+            "conflict": [],
             "note": "Schengen Agreement",
-            "time": "",
-            "type": "union"
+            "permission": "union",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "PRIC": {
+            "conflict": [],
             "note": "Except if arriving directly from US.",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "PRTG": {
+            "conflict": [],
             "note": "Schengen Agreement",
-            "time": "",
-            "type": "union"
+            "permission": "union",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "PRYG": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "PYFR": {
+            "conflict": [],
             "note": "",
-            "time": "3 Month(s)",
-            "type": "free"
+            "permission": "free",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "3 Month(s)"
         },
         "QATA": {
+            "conflict": [],
             "note": "",
-            "time": "1 Month(s)",
-            "type": "arrival"
+            "permission": "arrival",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "1 Month(s)"
         },
         "REUN": {
+            "conflict": [],
             "note": "",
-            "time": "3 Month(s)",
-            "type": "free"
+            "permission": "free",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "3 Month(s)"
         },
         "ROMA": {
+            "conflict": [],
             "note": "Schengen Agreement",
-            "time": "",
-            "type": "union"
+            "permission": "union",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "RUSS": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "RWAN": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "SAMO": {
+            "conflict": [],
             "note": "",
-            "time": "60 Day(s)",
-            "type": "arrival"
+            "permission": "arrival",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "60 Day(s)"
         },
         "SAN ": {
+            "conflict": [],
             "note": "Same rules as for italy.",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "SAUD": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "SENE": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "SERB": {
+            "conflict": [],
             "note": "",
-            "time": "90 Day(s)",
-            "type": "free"
+            "permission": "free",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "90 Day(s)"
         },
         "SEYC": {
+            "conflict": [],
             "note": "",
-            "time": "1 Month(s)",
-            "type": "arrival"
+            "permission": "arrival",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "1 Month(s)"
         },
         "SIER": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "SING": {
+            "conflict": [],
             "note": "",
-            "time": "30 Day(s)",
-            "type": "free"
+            "permission": "free",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "30 Day(s)"
         },
         "SKAN": {
+            "conflict": [],
             "note": "",
-            "time": "3 Month(s)",
-            "type": "free"
+            "permission": "free",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "3 Month(s)"
         },
         "SLOV": {
+            "conflict": [],
             "note": "Schengen Agreement",
-            "time": "",
-            "type": "union"
+            "permission": "union",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "SLVE": {
+            "conflict": [],
             "note": "",
-            "time": "3 Month(s)",
-            "type": "free"
+            "permission": "free",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "3 Month(s)"
         },
         "SMRT": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "SOLO": {
+            "conflict": [],
             "note": "",
-            "time": "3 Month(s)",
-            "type": "arrival"
+            "permission": "arrival",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "3 Month(s)"
         },
         "SOMA": {
+            "conflict": [],
             "note": "Except if of Somali origin.",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "SPNM": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "SRIL": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "STNP": {
+            "conflict": [],
             "note": "Registration made by airline.",
-            "time": "1 Month(s)",
-            "type": "arrival"
+            "permission": "arrival",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "1 Month(s)"
         },
         "SUDA": {
+            "conflict": [],
             "note": "Except if of Sudanese origin.",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "SUDS": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "SURI": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "SVJM": {
+            "conflict": [],
             "note": "Svalbard Treaty",
-            "time": "",
-            "type": "free"
+            "permission": "free",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "SVKI": {
+            "conflict": [],
             "note": "Schengen Agreement",
-            "time": "",
-            "type": "union"
+            "permission": "union",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "SVNG": {
+            "conflict": [],
             "note": "",
-            "time": "1 Month(s)",
-            "type": "free"
+            "permission": "free",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "1 Month(s)"
         },
         "SWAZ": {
+            "conflict": [],
             "note": "",
-            "time": "30 Day(s)",
-            "type": "free"
+            "permission": "free",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "30 Day(s)"
         },
         "SWED": {
+            "conflict": [],
             "note": "Schengen Agreement",
-            "time": "",
-            "type": "union"
+            "permission": "union",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "SWTZ": {
+            "conflict": [],
             "note": "Schengen Agreement",
-            "time": "",
-            "type": "union"
+            "permission": "union",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "SYRI": {
+            "conflict": [],
             "note": "Except if born in an arabic country.",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "TAIW": {
+            "conflict": [],
             "note": "",
-            "time": "30 Day(s)",
-            "type": "free"
+            "permission": "free",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "30 Day(s)"
         },
         "TAJI": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "TANZ": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "arrival"
+            "permission": "arrival",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "TCAI": {
+            "conflict": [],
             "note": "",
-            "time": "30 Day(s)",
-            "type": "free"
+            "permission": "free",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "30 Day(s)"
         },
         "THAI": {
+            "conflict": [],
             "note": "",
-            "time": "30 Day(s)",
-            "type": "free"
+            "permission": "free",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "30 Day(s)"
         },
         "TLSE": {
+            "conflict": [],
             "note": "",
-            "time": "30 Day(s)",
-            "type": "arrival"
+            "permission": "arrival",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "30 Day(s)"
         },
         "TOGO": {
+            "conflict": [],
             "note": "",
-            "time": "7 Day(s)",
-            "type": "arrival"
+            "permission": "arrival",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "7 Day(s)"
         },
         "TOKE": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "TONG": {
+            "conflict": [],
             "note": "",
-            "time": "31 Day(s)",
-            "type": "arrival"
+            "permission": "arrival",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "31 Day(s)"
         },
         "TRKM": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "TTOG": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "TUNI": {
+            "conflict": [],
             "note": "",
-            "time": "3 Month(s)",
-            "type": "free"
+            "permission": "free",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "3 Month(s)"
         },
         "TURK": {
+            "conflict": [],
             "note": "",
-            "time": "3 Month(s)",
-            "type": "free"
+            "permission": "free",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "3 Month(s)"
         },
         "TUVA": {
+            "conflict": [],
             "note": "",
-            "time": "1 Month(s)",
-            "type": "arrival"
+            "permission": "arrival",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "1 Month(s)"
         },
         "UAEM": {
+            "conflict": [],
             "note": "",
-            "time": "30 Day(s)",
-            "type": "arrival"
+            "permission": "arrival",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "30 Day(s)"
         },
         "UGAN": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "arrival"
+            "permission": "arrival",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "UKBI": {
+            "conflict": [],
             "note": "Schengen Agreement",
-            "time": "",
-            "type": "union"
+            "permission": "union",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "UKRA": {
+            "conflict": [],
             "note": "",
-            "time": "90 Day(s)",
-            "type": "free"
+            "permission": "free",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "90 Day(s)"
         },
         "URUG": {
+            "conflict": [],
             "note": "",
-            "time": "3 Month(s)",
-            "type": "free"
+            "permission": "free",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "3 Month(s)"
         },
         "USMO": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "USOA": {
+            "conflict": [],
             "note": "Electronic System for Travel Authorization",
-            "time": "",
-            "type": "electronic"
+            "permission": "electronic",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "USVI": {
+            "conflict": [],
             "note": "Except if arriving directly from US.",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "UZBE": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "VANU": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "VATI": {
+            "conflict": [],
             "note": "Schengen Agreement",
-            "time": "",
-            "type": "union"
+            "permission": "union",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "VENE": {
+            "conflict": [],
             "note": "",
-            "time": "90 Day(s)",
-            "type": "free"
+            "permission": "free",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "90 Day(s)"
         },
         "VIET": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "WLSF": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "WSAH": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "YEMN": {
+            "conflict": [],
             "note": "",
-            "time": "",
-            "type": "required"
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
         },
         "ZAFR": {
+            "conflict": [],
             "note": "",
-            "time": "90 Day(s)",
-            "type": "free"
+            "permission": "free",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "90 Day(s)"
         },
         "ZIMB": {
+            "conflict": [],
             "note": "3 months for holiday, 30 days for business.",
-            "time": "3 Month(s)",
-            "type": "arrival"
+            "permission": "arrival",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "3 Month(s)"
         },
         "ZMBI": {
+            "conflict": [],
             "note": "",
-            "time": "90 Day(s)",
-            "type": "arrival"
+            "permission": "arrival",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": "90 Day(s)"
         }
     }
 }
