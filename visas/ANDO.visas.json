@@ -5,7 +5,6 @@
     "csvc": "ANDO",
     "jurisdiction": "state",
     "name": "Andorra",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

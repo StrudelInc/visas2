@@ -5,7 +5,6 @@
     "csvc": "DENM",
     "jurisdiction": "state",
     "name": "Denmark",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

@@ -5,7 +5,6 @@
     "csvc": "LIBE",
     "jurisdiction": "state",
     "name": "Liberia",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

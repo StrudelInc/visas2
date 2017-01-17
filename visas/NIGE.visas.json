@@ -5,7 +5,6 @@
     "csvc": "NIGE",
     "jurisdiction": "state",
     "name": "Nigeria",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

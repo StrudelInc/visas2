@@ -5,7 +5,6 @@
     "csvc": "JAMC",
     "jurisdiction": "state",
     "name": "Jamaica",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

@@ -5,7 +5,6 @@
     "csvc": "CHIL",
     "jurisdiction": "state",
     "name": "Chile",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

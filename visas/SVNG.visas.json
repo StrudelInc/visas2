@@ -5,7 +5,6 @@
     "csvc": "SVNG",
     "jurisdiction": "state",
     "name": "Saint Vincent and the Grenadines",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

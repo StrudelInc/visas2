@@ -5,7 +5,6 @@
     "csvc": "HUNG",
     "jurisdiction": "state",
     "name": "Hungary",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

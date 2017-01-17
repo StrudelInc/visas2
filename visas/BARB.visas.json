@@ -5,7 +5,6 @@
     "csvc": "BARB",
     "jurisdiction": "state",
     "name": "Barbados",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

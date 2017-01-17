@@ -5,7 +5,6 @@
     "csvc": "TTOG",
     "jurisdiction": "state",
     "name": "Trinidad and Tobago",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

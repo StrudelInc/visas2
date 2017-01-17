@@ -5,7 +5,6 @@
     "csvc": "CLMB",
     "jurisdiction": "state",
     "name": "Colombia",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

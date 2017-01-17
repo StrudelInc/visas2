@@ -5,7 +5,6 @@
     "csvc": "USMO",
     "jurisdiction": "state",
     "name": "United States Minor Outlying Islands",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

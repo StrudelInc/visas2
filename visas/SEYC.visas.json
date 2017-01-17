@@ -5,7 +5,6 @@
     "csvc": "SEYC",
     "jurisdiction": "state",
     "name": "Seychelles",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

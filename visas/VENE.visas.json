@@ -5,7 +5,6 @@
     "csvc": "VENE",
     "jurisdiction": "state",
     "name": "Venezuela",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

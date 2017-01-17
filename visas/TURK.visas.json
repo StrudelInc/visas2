@@ -5,7 +5,6 @@
     "csvc": "TURK",
     "jurisdiction": "state",
     "name": "Turkey",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

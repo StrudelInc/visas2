@@ -5,7 +5,6 @@
     "csvc": "DJIB",
     "jurisdiction": "state",
     "name": "Djibouti",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

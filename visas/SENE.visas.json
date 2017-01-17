@@ -5,7 +5,6 @@
     "csvc": "SENE",
     "jurisdiction": "state",
     "name": "Senegal",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

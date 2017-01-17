@@ -5,7 +5,6 @@
     "csvc": "CONG",
     "jurisdiction": "state",
     "name": "Republic of the Congo",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

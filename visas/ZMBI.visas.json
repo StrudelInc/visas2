@@ -5,7 +5,6 @@
     "csvc": "ZMBI",
     "jurisdiction": "state",
     "name": "Zambia",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

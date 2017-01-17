@@ -5,7 +5,6 @@
     "csvc": "RUSS",
     "jurisdiction": "state",
     "name": "Russia",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

@@ -5,7 +5,6 @@
     "csvc": "ANBA",
     "jurisdiction": "state",
     "name": "Antigua and Barbuda",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

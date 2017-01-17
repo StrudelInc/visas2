@@ -5,7 +5,6 @@
     "csvc": "MALA",
     "jurisdiction": "state",
     "name": "Malawi",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

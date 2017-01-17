@@ -5,7 +5,6 @@
     "csvc": "MORO",
     "jurisdiction": "state",
     "name": "Morocco",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

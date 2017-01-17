@@ -5,7 +5,6 @@
     "csvc": "TRKM",
     "jurisdiction": "state",
     "name": "Turkmenistan",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

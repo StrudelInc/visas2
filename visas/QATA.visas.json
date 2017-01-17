@@ -5,7 +5,6 @@
     "csvc": "QATA",
     "jurisdiction": "state",
     "name": "Qatar",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

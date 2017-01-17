@@ -5,7 +5,6 @@
     "csvc": "MONG",
     "jurisdiction": "state",
     "name": "Mongolia",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

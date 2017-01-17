@@ -5,7 +5,6 @@
     "csvc": "LESO",
     "jurisdiction": "state",
     "name": "Lesotho",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

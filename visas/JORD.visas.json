@@ -5,7 +5,6 @@
     "csvc": "JORD",
     "jurisdiction": "state",
     "name": "Jordan",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

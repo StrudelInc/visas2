@@ -5,7 +5,6 @@
     "csvc": "TOGO",
     "jurisdiction": "state",
     "name": "Togo",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

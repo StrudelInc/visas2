@@ -5,7 +5,6 @@
     "csvc": "SRIL",
     "jurisdiction": "state",
     "name": "Sri Lanka",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

@@ -5,7 +5,6 @@
     "csvc": "INDI",
     "jurisdiction": "state",
     "name": "India",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

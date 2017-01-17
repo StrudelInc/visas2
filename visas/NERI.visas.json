@@ -5,7 +5,6 @@
     "csvc": "NERI",
     "jurisdiction": "state",
     "name": "Niger",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

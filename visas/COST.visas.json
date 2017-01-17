@@ -5,7 +5,6 @@
     "csvc": "COST",
     "jurisdiction": "state",
     "name": "Costa Rica",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

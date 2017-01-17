@@ -5,7 +5,6 @@
     "csvc": "ESTO",
     "jurisdiction": "state",
     "name": "Estonia",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

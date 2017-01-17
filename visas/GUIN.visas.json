@@ -5,7 +5,6 @@
     "csvc": "GUIN",
     "jurisdiction": "state",
     "name": "Guinea",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

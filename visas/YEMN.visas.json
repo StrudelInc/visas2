@@ -5,7 +5,6 @@
     "csvc": "YEMN",
     "jurisdiction": "state",
     "name": "Yemen",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

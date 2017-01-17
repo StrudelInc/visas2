@@ -5,7 +5,6 @@
     "csvc": "BRUN",
     "jurisdiction": "state",
     "name": "Brunei",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

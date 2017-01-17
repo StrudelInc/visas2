@@ -5,7 +5,6 @@
     "csvc": "OSTE",
     "jurisdiction": "state",
     "name": "Austria",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

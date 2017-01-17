@@ -5,7 +5,6 @@
     "csvc": "LIBY",
     "jurisdiction": "state",
     "name": "Libya",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

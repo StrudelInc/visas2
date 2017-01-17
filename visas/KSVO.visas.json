@@ -5,7 +5,6 @@
     "csvc": "KSVO",
     "jurisdiction": "state",
     "name": "Republic of Kosovo",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

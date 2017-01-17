@@ -5,7 +5,6 @@
     "csvc": "BURU",
     "jurisdiction": "state",
     "name": "Burundi",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

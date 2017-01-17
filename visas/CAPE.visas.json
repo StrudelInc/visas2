@@ -5,7 +5,6 @@
     "csvc": "CAPE",
     "jurisdiction": "state",
     "name": "Cape Verde",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

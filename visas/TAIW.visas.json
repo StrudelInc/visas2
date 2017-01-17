@@ -5,7 +5,6 @@
     "csvc": "TAIW",
     "jurisdiction": "state",
     "name": "Taiwan",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

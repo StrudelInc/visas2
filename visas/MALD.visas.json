@@ -5,7 +5,6 @@
     "csvc": "MALD",
     "jurisdiction": "state",
     "name": "Maldives",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

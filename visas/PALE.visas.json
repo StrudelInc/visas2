@@ -5,7 +5,6 @@
     "csvc": "PALE",
     "jurisdiction": "state",
     "name": "Palestine",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

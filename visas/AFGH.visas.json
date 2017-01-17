@@ -5,7 +5,6 @@
     "csvc": "AFGH",
     "jurisdiction": "state",
     "name": "Afghanistan",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

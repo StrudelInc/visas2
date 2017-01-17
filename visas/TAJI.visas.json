@@ -5,7 +5,6 @@
     "csvc": "TAJI",
     "jurisdiction": "state",
     "name": "Tajikistan",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

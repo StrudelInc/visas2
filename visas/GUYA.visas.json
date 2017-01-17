@@ -5,7 +5,6 @@
     "csvc": "GUYA",
     "jurisdiction": "state",
     "name": "Guyana",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

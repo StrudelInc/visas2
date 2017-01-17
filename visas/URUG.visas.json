@@ -5,7 +5,6 @@
     "csvc": "URUG",
     "jurisdiction": "state",
     "name": "Uruguay",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

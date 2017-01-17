@@ -5,7 +5,6 @@
     "csvc": "KENY",
     "jurisdiction": "state",
     "name": "Kenya",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

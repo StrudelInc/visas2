@@ -5,7 +5,6 @@
     "csvc": "POLA",
     "jurisdiction": "state",
     "name": "Poland",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

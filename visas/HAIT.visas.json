@@ -5,7 +5,6 @@
     "csvc": "HAIT",
     "jurisdiction": "state",
     "name": "Haiti",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

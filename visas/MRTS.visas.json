@@ -5,7 +5,6 @@
     "csvc": "MRTS",
     "jurisdiction": "state",
     "name": "Mauritius",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

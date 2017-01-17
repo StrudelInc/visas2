@@ -5,7 +5,6 @@
     "csvc": "GABO",
     "jurisdiction": "state",
     "name": "Gabon",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

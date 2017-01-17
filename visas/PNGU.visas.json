@@ -5,7 +5,6 @@
     "csvc": "PNGU",
     "jurisdiction": "state",
     "name": "Papua New Guinea",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

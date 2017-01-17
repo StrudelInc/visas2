@@ -5,7 +5,6 @@
     "csvc": "SOMA",
     "jurisdiction": "state",
     "name": "Somalia",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

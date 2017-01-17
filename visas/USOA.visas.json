@@ -5,7 +5,6 @@
     "csvc": "USOA",
     "jurisdiction": "state",
     "name": "United States",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

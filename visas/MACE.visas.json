@@ -5,7 +5,6 @@
     "csvc": "MACE",
     "jurisdiction": "state",
     "name": "Macedonia",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

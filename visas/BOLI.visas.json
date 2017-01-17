@@ -5,7 +5,6 @@
     "csvc": "BOLI",
     "jurisdiction": "state",
     "name": "Bolivia",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

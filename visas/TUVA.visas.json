@@ -5,7 +5,6 @@
     "csvc": "TUVA",
     "jurisdiction": "state",
     "name": "Tuvalu",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

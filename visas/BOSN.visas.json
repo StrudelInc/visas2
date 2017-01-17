@@ -5,7 +5,6 @@
     "csvc": "BOSN",
     "jurisdiction": "state",
     "name": "Bosnia and Herzegovina",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

@@ -5,7 +5,6 @@
     "csvc": "CAME",
     "jurisdiction": "state",
     "name": "Cameroon",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

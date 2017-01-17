@@ -5,7 +5,6 @@
     "csvc": "ALGE",
     "jurisdiction": "state",
     "name": "Algeria",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

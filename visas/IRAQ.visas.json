@@ -5,7 +5,6 @@
     "csvc": "IRAQ",
     "jurisdiction": "state",
     "name": "Iraq",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

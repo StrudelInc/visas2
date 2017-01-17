@@ -5,7 +5,6 @@
     "csvc": "BANG",
     "jurisdiction": "state",
     "name": "Bangladesh",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

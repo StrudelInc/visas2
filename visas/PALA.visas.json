@@ -5,7 +5,6 @@
     "csvc": "PALA",
     "jurisdiction": "state",
     "name": "Palau",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

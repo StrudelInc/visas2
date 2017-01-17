@@ -5,7 +5,6 @@
     "csvc": "SWED",
     "jurisdiction": "state",
     "name": "Sweden",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

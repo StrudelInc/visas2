@@ -5,7 +5,6 @@
     "csvc": "VIET",
     "jurisdiction": "state",
     "name": "Vietnam",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

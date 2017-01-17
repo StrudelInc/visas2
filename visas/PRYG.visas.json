@@ -5,7 +5,6 @@
     "csvc": "PRYG",
     "jurisdiction": "state",
     "name": "Paraguay",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

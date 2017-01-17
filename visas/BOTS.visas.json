@@ -5,7 +5,6 @@
     "csvc": "BOTS",
     "jurisdiction": "state",
     "name": "Botswana",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

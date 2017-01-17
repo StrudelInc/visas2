@@ -5,7 +5,6 @@
     "csvc": "GEOR",
     "jurisdiction": "state",
     "name": "Georgia",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

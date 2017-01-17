@@ -5,7 +5,6 @@
     "csvc": "LATV",
     "jurisdiction": "state",
     "name": "Latvia",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

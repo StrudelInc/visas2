@@ -5,7 +5,6 @@
     "csvc": "SUDA",
     "jurisdiction": "state",
     "name": "Sudan",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

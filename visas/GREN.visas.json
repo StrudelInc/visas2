@@ -5,7 +5,6 @@
     "csvc": "GREN",
     "jurisdiction": "state",
     "name": "Grenada",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

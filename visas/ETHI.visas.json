@@ -5,7 +5,6 @@
     "csvc": "ETHI",
     "jurisdiction": "state",
     "name": "Ethiopia",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

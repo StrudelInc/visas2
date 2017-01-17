@@ -5,7 +5,6 @@
     "csvc": "ZIMB",
     "jurisdiction": "state",
     "name": "Zimbabwe",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

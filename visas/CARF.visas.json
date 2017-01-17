@@ -5,7 +5,6 @@
     "csvc": "CAFR",
     "jurisdiction": "state",
     "name": "Central African Republic",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

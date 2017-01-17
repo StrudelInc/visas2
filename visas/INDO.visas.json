@@ -5,7 +5,6 @@
     "csvc": "INDO",
     "jurisdiction": "state",
     "name": "Indonesia",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

@@ -5,7 +5,6 @@
     "csvc": "MOZA",
     "jurisdiction": "state",
     "name": "Mozambique",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

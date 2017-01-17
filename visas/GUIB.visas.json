@@ -5,7 +5,6 @@
     "csvc": "GUIB",
     "jurisdiction": "state",
     "name": "Guinea-Bissau",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

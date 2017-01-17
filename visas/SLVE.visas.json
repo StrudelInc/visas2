@@ -5,7 +5,6 @@
     "csvc": "SLVE",
     "jurisdiction": "state",
     "name": "El Salvador",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

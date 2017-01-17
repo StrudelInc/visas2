@@ -5,7 +5,6 @@
     "csvc": "MONT",
     "jurisdiction": "state",
     "name": "Montenegro",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

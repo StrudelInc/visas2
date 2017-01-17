@@ -5,7 +5,6 @@
     "csvc": "UKRA",
     "jurisdiction": "state",
     "name": "Ukraine",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

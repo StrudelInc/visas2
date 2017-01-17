@@ -5,7 +5,6 @@
     "csvc": "ZAFR",
     "jurisdiction": "state",
     "name": "South Africa",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

@@ -5,7 +5,6 @@
     "csvc": "NOMI",
     "jurisdiction": "state",
     "name": "Northern Mariana Islands",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

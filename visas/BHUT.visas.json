@@ -5,7 +5,6 @@
     "csvc": "BHUT",
     "jurisdiction": "state",
     "name": "Bhutan",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

@@ -5,7 +5,6 @@
     "csvc": "SKAN",
     "jurisdiction": "state",
     "name": "Saint Kitts and Nevis",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

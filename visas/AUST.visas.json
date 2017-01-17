@@ -5,7 +5,6 @@
     "csvc": "AUST",
     "jurisdiction": "state",
     "name": "Australia",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

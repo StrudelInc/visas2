@@ -5,7 +5,6 @@
     "csvc": "SING",
     "jurisdiction": "state",
     "name": "Singapore",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

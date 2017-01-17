@@ -5,7 +5,6 @@
     "csvc": "CHAD",
     "jurisdiction": "state",
     "name": "Chad",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

@@ -5,7 +5,6 @@
     "csvc": "KORN",
     "jurisdiction": "state",
     "name": "North Korea",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

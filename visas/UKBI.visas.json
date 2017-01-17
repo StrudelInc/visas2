@@ -5,7 +5,6 @@
     "csvc": "UKBI",
     "jurisdiction": "state",
     "name": "United Kingdom",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

@@ -5,7 +5,6 @@
     "csvc": "DEUT",
     "jurisdiction": "state",
     "name": "Germany",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

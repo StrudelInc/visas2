@@ -5,7 +5,6 @@
     "csvc": "HOND",
     "jurisdiction": "state",
     "name": "Honduras",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

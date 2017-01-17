@@ -5,7 +5,6 @@
     "csvc": "KUWA",
     "jurisdiction": "state",
     "name": "Kuwait",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

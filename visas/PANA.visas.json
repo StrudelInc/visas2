@@ -5,7 +5,6 @@
     "csvc": "PANA",
     "jurisdiction": "state",
     "name": "Panama",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

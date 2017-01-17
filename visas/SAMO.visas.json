@@ -5,7 +5,6 @@
     "csvc": "SAMO",
     "jurisdiction": "state",
     "name": "Samoa",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

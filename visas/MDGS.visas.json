@@ -5,7 +5,6 @@
     "csvc": "MDGS",
     "jurisdiction": "state",
     "name": "Madagascar",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

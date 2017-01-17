@@ -5,7 +5,6 @@
     "csvc": "IRLE",
     "jurisdiction": "state",
     "name": "Ireland",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

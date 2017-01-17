@@ -5,7 +5,6 @@
     "csvc": "FRAN",
     "jurisdiction": "state",
     "name": "France",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

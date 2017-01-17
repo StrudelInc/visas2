@@ -5,7 +5,6 @@
     "csvc": "JAPA",
     "jurisdiction": "state",
     "name": "Japan",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

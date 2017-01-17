@@ -5,7 +5,6 @@
     "csvc": "HKGK",
     "jurisdiction": "state",
     "name": "Hong Kong",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

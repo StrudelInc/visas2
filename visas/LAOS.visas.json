@@ -5,7 +5,6 @@
     "csvc": "LAOS",
     "jurisdiction": "state",
     "name": "Laos",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

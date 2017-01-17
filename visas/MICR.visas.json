@@ -5,7 +5,6 @@
     "csvc": "MICR",
     "jurisdiction": "state",
     "name": "Micronesia",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

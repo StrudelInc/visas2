@@ -5,7 +5,6 @@
     "csvc": "NAMI",
     "jurisdiction": "state",
     "name": "Namibia",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

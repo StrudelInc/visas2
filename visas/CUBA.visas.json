@@ -5,7 +5,6 @@
     "csvc": "CUBA",
     "jurisdiction": "state",
     "name": "Cuba",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

@@ -5,7 +5,6 @@
     "csvc": "MYAN",
     "jurisdiction": "state",
     "name": "Myanmar",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

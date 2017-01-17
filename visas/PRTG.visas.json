@@ -5,7 +5,6 @@
     "csvc": "PRTG",
     "jurisdiction": "state",
     "name": "Portugal",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

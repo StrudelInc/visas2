@@ -5,7 +5,6 @@
     "csvc": "PHLP",
     "jurisdiction": "state",
     "name": "Philippines",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

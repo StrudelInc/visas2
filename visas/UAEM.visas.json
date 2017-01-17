@@ -5,7 +5,6 @@
     "csvc": "UAEM",
     "jurisdiction": "state",
     "name": "United Arab Emirates",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

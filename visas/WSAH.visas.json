@@ -5,7 +5,6 @@
     "csvc": "WSAH",
     "jurisdiction": "state",
     "name": "Western Sahara",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

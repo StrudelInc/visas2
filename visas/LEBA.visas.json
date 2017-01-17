@@ -5,7 +5,6 @@
     "csvc": "LEBA",
     "jurisdiction": "state",
     "name": "Lebanon",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

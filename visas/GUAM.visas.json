@@ -5,7 +5,6 @@
     "csvc": "GUAM",
     "jurisdiction": "state",
     "name": "Guam",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

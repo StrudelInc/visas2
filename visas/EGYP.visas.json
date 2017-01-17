@@ -5,7 +5,6 @@
     "csvc": "EGYP",
     "jurisdiction": "state",
     "name": "Egypt",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

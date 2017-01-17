@@ -5,7 +5,6 @@
     "csvc": "USVI",
     "jurisdiction": "state",
     "name": "United States Virgin Islands",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

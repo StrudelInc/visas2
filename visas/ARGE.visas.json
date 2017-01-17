@@ -5,7 +5,6 @@
     "csvc": "ARGE",
     "jurisdiction": "state",
     "name": "Argentina",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

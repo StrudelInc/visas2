@@ -5,7 +5,6 @@
     "csvc": "AZER",
     "jurisdiction": "state",
     "name": "Azerbaijan",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

@@ -5,7 +5,6 @@
     "csvc": "ITAL",
     "jurisdiction": "state",
     "name": "Italy",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

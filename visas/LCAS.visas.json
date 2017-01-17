@@ -5,7 +5,6 @@
     "csvc": "LCAS",
     "jurisdiction": "state",
     "name": "Saint Lucia",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

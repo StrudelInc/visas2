@@ -5,7 +5,6 @@
     "csvc": "KORR",
     "jurisdiction": "state",
     "name": "South Korea",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

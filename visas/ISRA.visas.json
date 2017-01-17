@@ -5,7 +5,6 @@
     "csvc": "ISRA",
     "jurisdiction": "state",
     "name": "Israel",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

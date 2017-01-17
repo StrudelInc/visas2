@@ -5,7 +5,6 @@
     "csvc": "ESPA",
     "jurisdiction": "state",
     "name": "Spain",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

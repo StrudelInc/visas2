@@ -5,7 +5,6 @@
     "csvc": "DEMO",
     "jurisdiction": "state",
     "name": "Democratic Republic of the Congo",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

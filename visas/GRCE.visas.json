@@ -5,7 +5,6 @@
     "csvc": "GRCE",
     "jurisdiction": "state",
     "name": "Greece",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

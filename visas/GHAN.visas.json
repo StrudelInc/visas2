@@ -5,7 +5,6 @@
     "csvc": "GHAN",
     "jurisdiction": "state",
     "name": "Ghana",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

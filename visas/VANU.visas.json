@@ -5,7 +5,6 @@
     "csvc": "VANU",
     "jurisdiction": "state",
     "name": "Vanuatu",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

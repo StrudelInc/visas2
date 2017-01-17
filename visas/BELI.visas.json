@@ -5,7 +5,6 @@
     "csvc": "BELI",
     "jurisdiction": "state",
     "name": "Belize",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

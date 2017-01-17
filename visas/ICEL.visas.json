@@ -5,7 +5,6 @@
     "csvc": "ICEL",
     "jurisdiction": "state",
     "name": "Iceland",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

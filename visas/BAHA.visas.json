@@ -5,7 +5,6 @@
     "csvc": "BAHA",
     "jurisdiction": "state",
     "name": "Bahamas",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

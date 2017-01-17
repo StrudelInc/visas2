@@ -5,7 +5,6 @@
     "csvc": "MAUR",
     "jurisdiction": "state",
     "name": "Mauritania",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

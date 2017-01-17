@@ -5,7 +5,6 @@
     "csvc": "LIEC",
     "jurisdiction": "state",
     "name": "Liechtenstein",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

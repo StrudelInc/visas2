@@ -5,7 +5,6 @@
     "csvc": "MEXI",
     "jurisdiction": "state",
     "name": "Mexico",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

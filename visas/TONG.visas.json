@@ -5,7 +5,6 @@
     "csvc": "TONG",
     "jurisdiction": "state",
     "name": "Tonga",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

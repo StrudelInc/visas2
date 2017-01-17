@@ -5,7 +5,6 @@
     "csvc": "CHIN",
     "jurisdiction": "state",
     "name": "China",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

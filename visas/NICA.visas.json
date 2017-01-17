@@ -5,7 +5,6 @@
     "csvc": "NICA",
     "jurisdiction": "state",
     "name": "Nicaragua",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

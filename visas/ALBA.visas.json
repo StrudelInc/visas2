@@ -5,7 +5,6 @@
     "csvc": "ALBA",
     "jurisdiction": "state",
     "name": "Albania",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

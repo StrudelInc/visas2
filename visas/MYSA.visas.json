@@ -5,7 +5,6 @@
     "csvc": "MYSA",
     "jurisdiction": "state",
     "name": "Malaysia",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

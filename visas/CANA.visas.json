@@ -5,7 +5,6 @@
     "csvc": "CANA",
     "jurisdiction": "state",
     "name": "Canada",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

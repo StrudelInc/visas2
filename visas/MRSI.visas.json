@@ -5,7 +5,6 @@
     "csvc": "MRSI",
     "jurisdiction": "state",
     "name": "Marshall Islands",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

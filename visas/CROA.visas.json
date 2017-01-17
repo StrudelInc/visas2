@@ -5,7 +5,6 @@
     "csvc": "CROA",
     "jurisdiction": "state",
     "name": "Croatia",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],

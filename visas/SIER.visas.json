@@ -5,7 +5,6 @@
     "csvc": "SIER",
     "jurisdiction": "state",
     "name": "Sierra Leone",
-    "parent": "",
     "requirements": {
         "ABKH": {
             "conflict": [],
