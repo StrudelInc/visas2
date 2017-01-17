@@ -616,7 +616,7 @@
             },
             "time": ""
         },
-        "DENM": {
+        "DENK": {
             "conflict": [],
             "note": "",
             "permission": "required",
@@ -866,7 +866,7 @@
             },
             "time": ""
         },
-        "GREE": {
+        "GRGS": {
             "conflict": [],
             "note": "",
             "permission": "required",
@@ -876,7 +876,7 @@
             },
             "time": ""
         },
-        "GRGS": {
+        "GRNL": {
             "conflict": [],
             "note": "",
             "permission": "required",

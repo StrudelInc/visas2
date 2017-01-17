@@ -616,7 +616,7 @@
             },
             "time": "90 Day(s)"
         },
-        "DENM": {
+        "DENK": {
             "conflict": [],
             "note": "",
             "permission": "required",
@@ -866,16 +866,6 @@
             },
             "time": ""
         },
-        "GREE": {
-            "conflict": [],
-            "note": "",
-            "permission": "required",
-            "required": {
-                "passport_blank_pages": 2,
-                "passport_expiry": 3
-            },
-            "time": ""
-        },
         "GREN": {
             "conflict": [],
             "note": "",
@@ -887,6 +877,16 @@
             "time": "3 Month(s)"
         },
         "GRGS": {
+            "conflict": [],
+            "note": "",
+            "permission": "required",
+            "required": {
+                "passport_blank_pages": 2,
+                "passport_expiry": 3
+            },
+            "time": ""
+        },
+        "GRNL": {
             "conflict": [],
             "note": "",
             "permission": "required",
