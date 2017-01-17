@@ -5,7 +5,7 @@
     "csvc": "PYFR",
     "jurisdiction": "state",
     "name": "French Polynesia",
-    "parent": "",
+    "parent": "FRAN",
     "requirements": {
         "ABKH": {
             "conflict": [],

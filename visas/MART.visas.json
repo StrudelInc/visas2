@@ -5,7 +5,7 @@
     "csvc": "MART",
     "jurisdiction": "state",
     "name": "Martinique",
-    "parent": "",
+    "parent": "FRAN",
     "requirements": {
         "ABKH": {
             "conflict": [],

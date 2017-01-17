@@ -5,7 +5,7 @@
     "csvc": "WLSF",
     "jurisdiction": "state",
     "name": "Wallis and Futuna",
-    "parent": "",
+    "parent": "FRAN",
     "requirements": {
         "ABKH": {
             "conflict": [],

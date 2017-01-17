@@ -5,7 +5,7 @@
     "csvc": "JERS",
     "jurisdiction": "state",
     "name": "Jersey",
-    "parent": "",
+    "parent": "UKBI",
     "requirements": {
         "ABKH": {
             "conflict": [],

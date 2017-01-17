@@ -5,7 +5,7 @@
     "csvc": "GREE",
     "jurisdiction": "state",
     "name": "Greenland",
-    "parent": "",
+    "parent": "DENM",
     "requirements": {
         "ABKH": {
             "conflict": [],

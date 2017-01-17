@@ -5,7 +5,7 @@
     "csvc": "COCO",
     "jurisdiction": "state",
     "name": "Cocos (Keeling) Islands",
-    "parent": "",
+    "parent": "AUST",
     "requirements": {
         "ABKH": {
             "conflict": [],

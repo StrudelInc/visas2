@@ -5,7 +5,7 @@
     "csvc": "FSAL",
     "jurisdiction": "state",
     "name": "French Southern and Antarctic Lands",
-    "parent": "",
+    "parent": "FRAN",
     "requirements": {
         "ABKH": {
             "conflict": [],

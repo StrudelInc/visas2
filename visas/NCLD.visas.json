@@ -5,7 +5,7 @@
     "csvc": "NCLD",
     "jurisdiction": "state",
     "name": "New Caledonia",
-    "parent": "",
+    "parent": "FRAN",
     "requirements": {
         "ABKH": {
             "conflict": [],

@@ -5,7 +5,7 @@
     "csvc": "SPNM",
     "jurisdiction": "state",
     "name": "Saint Pierre and Miquelon",
-    "parent": "",
+    "parent": "FRAN",
     "requirements": {
         "ABKH": {
             "conflict": [],

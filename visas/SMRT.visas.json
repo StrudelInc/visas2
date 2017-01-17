@@ -5,7 +5,7 @@
     "csvc": "SMRT",
     "jurisdiction": "state",
     "name": "Saint Martin",
-    "parent": "",
+    "parent": "FRAN",
     "requirements": {
         "ABKH": {
             "conflict": [],

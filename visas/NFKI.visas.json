@@ -5,7 +5,7 @@
     "csvc": "NFKI",
     "jurisdiction": "state",
     "name": "Norfolk Island",
-    "parent": "",
+    "parent": "AUST",
     "requirements": {
         "ABKH": {
             "conflict": [],

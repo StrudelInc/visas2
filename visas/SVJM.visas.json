@@ -5,6 +5,5 @@
     "csvc": "SVJM",
     "jurisdiction": "state",
     "name": "Svalbard and Jan Mayen",
-    "parent": "",
-    "requirements": {}
+    "parent": "NORW"
 }

@@ -5,7 +5,7 @@
     "csvc": "MAYO",
     "jurisdiction": "state",
     "name": "Mayotte",
-    "parent": "",
+    "parent": "FRAN",
     "requirements": {
         "ABKH": {
             "conflict": [],

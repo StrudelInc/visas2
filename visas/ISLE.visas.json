@@ -5,7 +5,7 @@
     "csvc": "ISLE",
     "jurisdiction": "state",
     "name": "Isle of Man",
-    "parent": "",
+    "parent": "UKBI",
     "requirements": {
         "ABKH": {
             "conflict": [],

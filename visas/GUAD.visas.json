@@ -5,7 +5,7 @@
     "csvc": "GUAD",
     "jurisdiction": "state",
     "name": "Guadeloupe",
-    "parent": "",
+    "parent": "FRAN",
     "requirements": {
         "ABKH": {
             "conflict": [],

@@ -5,7 +5,7 @@
     "csvc": "MAAS",
     "jurisdiction": "state",
     "name": "Sint Maarten",
-    "parent": "",
+    "parent": "NETH",
     "requirements": {
         "ABKH": {
             "conflict": [],

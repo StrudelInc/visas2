@@ -5,7 +5,7 @@
     "csvc": "FGUI",
     "jurisdiction": "state",
     "name": "French Guiana",
-    "parent": "",
+    "parent": "FRAN",
     "requirements": {
         "ABKH": {
             "conflict": [],

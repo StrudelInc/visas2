@@ -5,7 +5,7 @@
     "csvc": "REUN",
     "jurisdiction": "state",
     "name": "R\u00e9union",
-    "parent": "",
+    "parent": "FRAN",
     "requirements": {
         "ABKH": {
             "conflict": [],

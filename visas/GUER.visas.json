@@ -5,7 +5,7 @@
     "csvc": "GUER",
     "jurisdiction": "state",
     "name": "Guernsey",
-    "parent": "",
+    "parent": "UKBI",
     "requirements": {
         "ABKH": {
             "conflict": [],
