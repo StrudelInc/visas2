@@ -2,8 +2,9 @@
     "cca2": "SJ",
     "cca3": "",
     "ccn3": "",
-    "csvc": "SVJM",
+    "csvcid": "SVJM",
     "jurisdiction": "dependant",
     "name": "Svalbard and Jan Mayen",
-    "parent": "NORW"
+    "parent": "NORW",
+    "requirements": {}
 }

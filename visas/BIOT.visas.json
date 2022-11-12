@@ -2,8 +2,9 @@
     "cca2": "IO",
     "cca3": "",
     "ccn3": "",
-    "csvc": "BIOT",
+    "csvcid": "BIOT",
     "jurisdiction": "dependant",
     "name": "British Indian Ocean Territory",
-    "parent": "UKBI"
+    "parent": "UKBI",
+    "requirements": {}
 }

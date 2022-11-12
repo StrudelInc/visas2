@@ -2,8 +2,9 @@
     "cca2": "CK",
     "cca3": "COK",
     "ccn3": "184",
-    "csvc": "COOK",
+    "csvcid": "COOK",
     "jurisdiction": "dependant",
     "name": "Cook Islands",
-    "parent": "NZLD"
+    "parent": "NZLD",
+    "requirements": {}
 }

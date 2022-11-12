@@ -2,8 +2,9 @@
     "cca2": "CX",
     "cca3": "",
     "ccn3": "",
-    "csvc": "CHRI",
+    "csvcid": "CHRI",
     "jurisdiction": "dependant",
     "name": "Christmas Island",
-    "parent": "AUST"
+    "parent": "AUST",
+    "requirements": {}
 }

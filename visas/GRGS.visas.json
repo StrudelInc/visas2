@@ -2,8 +2,9 @@
     "cca2": "GS",
     "cca3": "",
     "ccn3": "",
-    "csvc": "GRGS",
+    "csvcid": "GRGS",
     "jurisdiction": "dependant",
     "name": "South Georgia",
-    "parent": "UKBI"
+    "parent": "UKBI",
+    "requirements": {}
 }

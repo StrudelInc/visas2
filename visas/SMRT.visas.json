@@ -2,8 +2,9 @@
     "cca2": "MF",
     "cca3": "",
     "ccn3": "",
-    "csvc": "SMRT",
+    "csvcid": "SMRT",
     "jurisdiction": "dependant",
     "name": "Saint Martin",
-    "parent": "FRAN"
+    "parent": "FRAN",
+    "requirements": {}
 }

@@ -2,8 +2,9 @@
     "cca2": "TC",
     "cca3": "TCA",
     "ccn3": "796",
-    "csvc": "TCAI",
+    "csvcid": "TCAI",
     "jurisdiction": "dependant",
     "name": "Turks and Caicos Islands",
-    "parent": "UKBI"
+    "parent": "UKBI",
+    "requirements": {}
 }

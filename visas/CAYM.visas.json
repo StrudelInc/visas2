@@ -2,8 +2,9 @@
     "cca2": "KY",
     "cca3": "CYM",
     "ccn3": "136",
-    "csvc": "CAYM",
+    "csvcid": "CAYM",
     "jurisdiction": "dependant",
     "name": "Cayman Islands",
-    "parent": "UKBI"
+    "parent": "UKBI",
+    "requirements": {}
 }

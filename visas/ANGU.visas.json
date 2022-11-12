@@ -2,8 +2,9 @@
     "cca2": "AI",
     "cca3": "AIA",
     "ccn3": "660",
-    "csvc": "ANGU",
+    "csvcid": "ANGU",
     "jurisdiction": "dependant",
     "name": "Anguilla",
-    "parent": "UKBI"
+    "parent": "UKBI",
+    "requirements": {}
 }

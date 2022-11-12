@@ -2,8 +2,9 @@
     "cca2": "IM",
     "cca3": "",
     "ccn3": "",
-    "csvc": "ISLE",
+    "csvcid": "ISLE",
     "jurisdiction": "dependant",
     "name": "Isle of Man",
-    "parent": "UKBI"
+    "parent": "UKBI",
+    "requirements": {}
 }

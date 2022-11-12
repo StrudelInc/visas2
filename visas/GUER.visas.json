@@ -2,8 +2,9 @@
     "cca2": "GG",
     "cca3": "",
     "ccn3": "",
-    "csvc": "GUER",
+    "csvcid": "GUER",
     "jurisdiction": "dependant",
     "name": "Guernsey",
-    "parent": "UKBI"
+    "parent": "UKBI",
+    "requirements": {}
 }

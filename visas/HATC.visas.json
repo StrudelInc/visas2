@@ -2,8 +2,9 @@
     "cca2": "SH",
     "cca3": "",
     "ccn3": "",
-    "csvc": "HATC",
+    "csvcid": "HATC",
     "jurisdiction": "dependant",
     "name": "Saint Helena, Ascension and Tristan da Cunha",
-    "parent": "UKBI"
+    "parent": "UKBI",
+    "requirements": {}
 }

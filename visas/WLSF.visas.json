@@ -2,8 +2,9 @@
     "cca2": "WF",
     "cca3": "",
     "ccn3": "",
-    "csvc": "WLSF",
+    "csvcid": "WLSF",
     "jurisdiction": "dependant",
     "name": "Wallis and Futuna",
-    "parent": "FRAN"
+    "parent": "FRAN",
+    "requirements": {}
 }

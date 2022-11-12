@@ -2,8 +2,9 @@
     "cca2": "FK",
     "cca3": "",
     "ccn3": "",
-    "csvc": "FALK",
+    "csvcid": "FALK",
     "jurisdiction": "dependant",
     "name": "Falkland Islands",
-    "parent": "UKBI"
+    "parent": "UKBI",
+    "requirements": {}
 }

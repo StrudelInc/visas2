@@ -2,8 +2,9 @@
     "cca2": "TK",
     "cca3": "",
     "ccn3": "",
-    "csvc": "TOKE",
+    "csvcid": "TOKE",
     "jurisdiction": "dependant",
     "name": "Tokelau",
-    "parent": "NZLD"
+    "parent": "NZLD",
+    "requirements": {}
 }

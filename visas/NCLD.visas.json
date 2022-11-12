@@ -2,8 +2,9 @@
     "cca2": "NC",
     "cca3": "NCL",
     "ccn3": "540",
-    "csvc": "NCLD",
+    "csvcid": "NCLD",
     "jurisdiction": "dependant",
     "name": "New Caledonia",
-    "parent": "FRAN"
+    "parent": "FRAN",
+    "requirements": {}
 }

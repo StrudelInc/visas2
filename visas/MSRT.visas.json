@@ -2,8 +2,9 @@
     "cca2": "MS",
     "cca3": "MSR",
     "ccn3": "500",
-    "csvc": "MSRT",
+    "csvcid": "MSRT",
     "jurisdiction": "dependant",
     "name": "Montserrat",
-    "parent": "UKBI"
+    "parent": "UKBI",
+    "requirements": {}
 }

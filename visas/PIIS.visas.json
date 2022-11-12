@@ -2,8 +2,9 @@
     "cca2": "PN",
     "cca3": "",
     "ccn3": "",
-    "csvc": "PIIS",
+    "csvcid": "PIIS",
     "jurisdiction": "dependant",
     "name": "Pitcairn Islands",
-    "parent": "UKBI"
+    "parent": "UKBI",
+    "requirements": {}
 }

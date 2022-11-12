@@ -2,8 +2,9 @@
     "cca2": "TF",
     "cca3": "",
     "ccn3": "",
-    "csvc": "FSAL",
+    "csvcid": "FSAL",
     "jurisdiction": "dependant",
     "name": "French Southern and Antarctic Lands",
-    "parent": "FRAN"
+    "parent": "FRAN",
+    "requirements": {}
 }

@@ -2,8 +2,9 @@
     "cca2": "GL",
     "cca3": "",
     "ccn3": "",
-    "csvc": "GRNL",
+    "csvcid": "GRNL",
     "jurisdiction": "dependant",
     "name": "Greenland",
-    "parent": "DENM"
+    "parent": "DENM",
+    "requirements": {}
 }

@@ -2,8 +2,9 @@
     "cca2": "GI",
     "cca3": "GIB",
     "ccn3": "292",
-    "csvc": "GIBR",
+    "csvcid": "GIBR",
     "jurisdiction": "dependant",
     "name": "Gibraltar",
-    "parent": "UKBI"
+    "parent": "UKBI",
+    "requirements": {}
 }

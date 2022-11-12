@@ -2,8 +2,9 @@
     "cca2": "HM",
     "cca3": "",
     "ccn3": "",
-    "csvc": "HIMI",
+    "csvcid": "HIMI",
     "jurisdiction": "dependant",
     "name": "Heard Island and McDonald Islands",
-    "parent": "AUST"
+    "parent": "AUST",
+    "requirements": {}
 }

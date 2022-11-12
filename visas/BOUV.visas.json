@@ -2,8 +2,9 @@
     "cca2": "BV",
     "cca3": "",
     "ccn3": "",
-    "csvc": "BOUV",
+    "csvcid": "BOUV",
     "jurisdiction": "dependant",
     "name": "Bouvet Island",
-    "parent": "NORW"
+    "parent": "NORW",
+    "requirements": {}
 }

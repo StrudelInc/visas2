@@ -2,8 +2,9 @@
     "cca2": "SX",
     "cca3": "",
     "ccn3": "",
-    "csvc": "MAAS",
+    "csvcid": "MAAS",
     "jurisdiction": "dependant",
     "name": "Sint Maarten",
-    "parent": "NETH"
+    "parent": "NETH",
+    "requirements": {}
 }

@@ -2,8 +2,9 @@
     "cca2": "GF",
     "cca3": "GUF",
     "ccn3": "254",
-    "csvc": "FGUI",
+    "csvcid": "FGUI",
     "jurisdiction": "dependant",
     "name": "French Guiana",
-    "parent": "FRAN"
+    "parent": "FRAN",
+    "requirements": {}
 }

@@ -2,8 +2,9 @@
     "cca2": "BL",
     "cca3": "",
     "ccn3": "",
-    "csvc": "BART",
+    "csvcid": "BART",
     "jurisdiction": "dependant",
     "name": "Saint Barth\u00e9lemy",
-    "parent": "FRAN"
+    "parent": "FRAN",
+    "requirements": {}
 }

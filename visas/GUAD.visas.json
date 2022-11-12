@@ -2,8 +2,9 @@
     "cca2": "GP",
     "cca3": "",
     "ccn3": "",
-    "csvc": "GUAD",
+    "csvcid": "GUAD",
     "jurisdiction": "dependant",
     "name": "Guadeloupe",
-    "parent": "FRAN"
+    "parent": "FRAN",
+    "requirements": {}
 }

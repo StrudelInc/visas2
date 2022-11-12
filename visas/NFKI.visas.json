@@ -2,8 +2,9 @@
     "cca2": "NF",
     "cca3": "NFK",
     "ccn3": "574",
-    "csvc": "NFKI",
+    "csvcid": "NFKI",
     "jurisdiction": "dependant",
     "name": "Norfolk Island",
-    "parent": "AUST"
+    "parent": "AUST",
+    "requirements": {}
 }

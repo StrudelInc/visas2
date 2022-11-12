@@ -2,8 +2,9 @@
     "cca2": "JE",
     "cca3": "",
     "ccn3": "",
-    "csvc": "JERS",
+    "csvcid": "JERS",
     "jurisdiction": "dependant",
     "name": "Jersey",
-    "parent": "UKBI"
+    "parent": "UKBI",
+    "requirements": {}
 }

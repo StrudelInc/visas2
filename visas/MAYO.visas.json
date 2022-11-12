@@ -2,8 +2,9 @@
     "cca2": "YT",
     "cca3": "MYT",
     "ccn3": "175",
-    "csvc": "MAYO",
+    "csvcid": "MAYO",
     "jurisdiction": "dependant",
     "name": "Mayotte",
-    "parent": "FRAN"
+    "parent": "FRAN",
+    "requirements": {}
 }

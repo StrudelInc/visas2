@@ -2,8 +2,9 @@
     "cca2": "CC",
     "cca3": "",
     "ccn3": "",
-    "csvc": "COCO",
+    "csvcid": "COCO",
     "jurisdiction": "dependant",
     "name": "Cocos (Keeling) Islands",
-    "parent": "AUST"
+    "parent": "AUST",
+    "requirements": {}
 }

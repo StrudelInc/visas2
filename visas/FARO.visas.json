@@ -2,8 +2,9 @@
     "cca2": "FO",
     "cca3": "",
     "ccn3": "",
-    "csvc": "FARO",
+    "csvcid": "FARO",
     "jurisdiction": "dependant",
     "name": "Faroe Islands",
-    "parent": "DENM"
+    "parent": "DENM",
+    "requirements": {}
 }

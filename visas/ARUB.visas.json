@@ -2,8 +2,9 @@
     "cca2": "AW",
     "cca3": "ABW",
     "ccn3": "533",
-    "csvc": "ARUB",
+    "csvcid": "ARUB",
     "jurisdiction": "dependant",
     "name": "Aruba",
-    "parent": "NETH"
+    "parent": "NETH",
+    "requirements": {}
 }

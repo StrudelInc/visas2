@@ -2,8 +2,9 @@
     "cca2": "MQ",
     "cca3": "",
     "ccn3": "",
-    "csvc": "MART",
+    "csvcid": "MART",
     "jurisdiction": "dependant",
     "name": "Martinique",
-    "parent": "FRAN"
+    "parent": "FRAN",
+    "requirements": {}
 }

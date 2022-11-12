@@ -2,8 +2,9 @@
     "cca2": "RE",
     "cca3": "REU",
     "ccn3": "638",
-    "csvc": "REUN",
+    "csvcid": "REUN",
     "jurisdiction": "dependant",
     "name": "R\u00e9union",
-    "parent": "FRAN"
+    "parent": "FRAN",
+    "requirements": {}
 }

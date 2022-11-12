@@ -2,8 +2,9 @@
     "cca2": "BM",
     "cca3": "BMU",
     "ccn3": "060",
-    "csvc": "BERM",
+    "csvcid": "BERM",
     "jurisdiction": "dependant",
     "name": "Bermuda",
-    "parent": "UKBI"
+    "parent": "UKBI",
+    "requirements": {}
 }

@@ -2,8 +2,9 @@
     "cca2": "PM",
     "cca3": "",
     "ccn3": "",
-    "csvc": "SPNM",
+    "csvcid": "SPNM",
     "jurisdiction": "dependant",
     "name": "Saint Pierre and Miquelon",
-    "parent": "FRAN"
+    "parent": "FRAN",
+    "requirements": {}
 }
