@@ -1,0 +1,6 @@
+[submodule "countries"]
+	path = countries
+	url = https://github.com/StrudelInc/visas2-countries
+[submodule "geo"]
+	path = geo
+	url = https://github.com/StrudelInc/geo-countries
