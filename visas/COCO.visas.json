@@ -1,10 +1,31 @@
 {
     "cca2": "CC",
-    "cca3": "",
-    "ccn3": "",
+    "cca3": "CCK",
+    "ccn3": "166",
     "csvcid": "COCO",
     "jurisdiction": "dependant",
     "name": "Cocos (Keeling) Islands",
     "parent": "AUST",
-    "requirements": {}
+    "requirements": {
+        "ALAX": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "NBES": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        }
+    }
 }

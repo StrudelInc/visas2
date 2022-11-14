@@ -6,5 +6,26 @@
     "jurisdiction": "dependant",
     "name": "French Polynesia",
     "parent": "FRAN",
-    "requirements": {}
+    "requirements": {
+        "ALAX": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "NBES": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        }
+    }
 }

@@ -1,10 +1,31 @@
 {
     "cca2": "SH",
-    "cca3": "",
-    "ccn3": "",
+    "cca3": "SHN",
+    "ccn3": "654",
     "csvcid": "HATC",
     "jurisdiction": "dependant",
     "name": "Saint Helena, Ascension and Tristan da Cunha",
     "parent": "UKBI",
-    "requirements": {}
+    "requirements": {
+        "ALAX": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "NBES": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        }
+    }
 }

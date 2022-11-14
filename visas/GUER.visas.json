@@ -1,10 +1,31 @@
 {
     "cca2": "GG",
-    "cca3": "",
-    "ccn3": "",
+    "cca3": "GGY",
+    "ccn3": "831",
     "csvcid": "GUER",
     "jurisdiction": "dependant",
     "name": "Guernsey",
     "parent": "UKBI",
-    "requirements": {}
+    "requirements": {
+        "ALAX": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "NBES": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        }
+    }
 }

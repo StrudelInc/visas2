@@ -1,10 +1,31 @@
 {
     "cca2": "GP",
-    "cca3": "",
-    "ccn3": "",
+    "cca3": "GLP",
+    "ccn3": "312",
     "csvcid": "GUAD",
     "jurisdiction": "dependant",
     "name": "Guadeloupe",
     "parent": "FRAN",
-    "requirements": {}
+    "requirements": {
+        "ALAX": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "NBES": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        }
+    }
 }

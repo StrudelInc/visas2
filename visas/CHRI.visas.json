@@ -1,10 +1,31 @@
 {
     "cca2": "CX",
-    "cca3": "",
-    "ccn3": "",
+    "cca3": "CXR",
+    "ccn3": "162",
     "csvcid": "CHRI",
     "jurisdiction": "dependant",
     "name": "Christmas Island",
     "parent": "AUST",
-    "requirements": {}
+    "requirements": {
+        "ALAX": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "NBES": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        }
+    }
 }

@@ -1,9 +1,30 @@
 {
     "cca2": "AQ",
-    "cca3": "",
-    "ccn3": "",
+    "cca3": "ATA",
+    "ccn3": "010",
     "csvcid": "ANTA",
     "jurisdiction": "state",
     "name": "Antarctica",
-    "requirements": {}
+    "requirements": {
+        "ALAX": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "NBES": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        }
+    }
 }
