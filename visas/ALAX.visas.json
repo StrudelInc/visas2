@@ -1,0 +1,2501 @@
+{
+    "cca2": "AX",
+    "cca3": "ALA",
+    "ccn3": "248",
+    "csvcid": "ALAX",
+    "jurisdiction": "dependant",
+    "name": "\u00c5land Islands",
+    "parent": "FINL",
+    "requirements": {
+        "AFGH": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "ALBA": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "ALGE": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "AMSA": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "ANBA": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "ANDO": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "ANGO": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "ANGU": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "ANTA": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "ARGE": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "ARME": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "ARUB": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "AUST": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "AZER": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "BAHA": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "BAHR": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "BANG": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "BARB": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "BART": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "BELA": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "BELG": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "BELI": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "BENI": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "BERM": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "BHUT": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "BIOT": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "BOLI": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "BOSN": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "BOTS": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "BOUV": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "BRAZ": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "BRIV": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "BRUN": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "BULG": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "BURK": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "BURU": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "CAFR": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "CAMB": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "CAME": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "CANA": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "CAPE": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "CAYM": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "CHAD": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "CHIL": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "CHIN": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "CHRI": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "CLMB": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "COCO": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "COMO": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "CONG": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "COOK": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "COST": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "CROA": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "CUBA": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "CURA": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "CYPR": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "CZEC": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "DEMO": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "DENK": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "DEUT": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "DJIB": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "DOMI": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "DOMR": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "ECUA": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "EGUI": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "EGYP": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "ERIT": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "ESPA": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "ESTO": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "ETHI": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "FALK": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "FARO": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "FGUI": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "FIJI": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "FINL": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "FRAN": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "FSAL": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "GABO": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "GAMB": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "GEOR": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "GHAN": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "GIBR": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "GRCE": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "GREN": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "GRGS": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "GRNL": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "GUAD": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "GUAM": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "GUAT": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "GUER": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "GUIB": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "GUIN": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "GUYA": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "HAIT": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "HATC": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "HIMI": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "HKGK": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "HOND": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "HUNG": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "ICEL": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "INDI": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "INDO": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "IRAN": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "IRAQ": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "IRLE": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "ISLE": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "ISRA": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "ITAL": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "IVOR": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "JAMC": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "JAPA": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "JERS": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "JORD": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "KAZA": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "KENY": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "KIRI": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "KORN": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "KORR": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "KSVO": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "KUWA": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "KYRG": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "LAOS": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "LATV": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "LCAS": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "LEBA": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "LESO": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "LIBE": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "LIBY": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "LIEC": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "LITH": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "LUXE": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "MAAS": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "MACA": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "MACE": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "MALA": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "MALD": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "MALI": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "MALT": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "MART": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "MAUR": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "MAYO": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "MDGS": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "MEXI": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "MICR": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "MOLD": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "MONA": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "MONG": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "MONT": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "MORO": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "MOZA": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "MRSI": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "MRTS": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "MSRT": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "MYAN": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "MYSA": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "NAMI": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "NAUR": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "NBES": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "NCLD": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "NEPL": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "NERI": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "NETH": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "NFKI": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "NICA": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "NIGE": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "NIUE": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "NOMI": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "NORW": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "NZLD": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "OMAN": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "OSTE": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "PAKI": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "PALA": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "PALE": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "PANA": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "PERU": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "PHLP": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "PIIS": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "PNGU": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "POLA": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "PRIC": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "PRTG": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "PRYG": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "PYFR": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "QATA": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "REUN": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "ROMA": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "RUSS": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "RWAN": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "SAMO": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "SAUD": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "SENE": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "SERB": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "SEYC": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "SIER": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "SING": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "SKAN": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "SLOV": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "SLVE": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "SMRN": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "SMRT": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "SOLO": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "SOMA": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "SPNM": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "SRIL": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "STNP": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "SUDA": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "SUDS": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "SURI": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "SVJM": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "SVKI": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "SVNG": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "SWAZ": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "SWED": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "SWTZ": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "SYRI": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "TAIW": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "TAJI": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "TANZ": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "TCAI": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "THAI": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "TLSE": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "TOGO": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "TOKE": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "TONG": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "TRKM": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "TTOG": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "TUNI": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "TURK": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "TUVA": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "UAEM": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "UGAN": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "UKBI": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "UKRA": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "URUG": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "USMO": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "USOA": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "USVI": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "UZBE": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "VANU": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "VATI": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "VENE": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "VIET": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "WLSF": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "WSAH": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "YEMN": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "ZAFR": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "ZIMB": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        },
+        "ZMBI": {
+            "additional_requirements": {
+                "passport_blank_pages": 2,
+                "passport_expiry_months": 3
+            },
+            "conflicts": [],
+            "note": "",
+            "requirement": "required",
+            "stay_length": {}
+        }
+    }
+}
